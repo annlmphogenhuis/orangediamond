@@ -1,0 +1,56 @@
+/* DIMS Dashboard — theme tokens (single source of truth for all colors).
+   Add a new theme by adding one [data-theme="x"] block below and one <option>
+   in index.html. Charts read these same vars at render time (see js/app.js). */
+
+:root{ /* Aurora (default, light) */
+    --bg:#ffffff; --panel:#ffffff; --panel2:#f6f8fa; --line:#d9dee3;
+    --text:#1f2328; --muted:#59636e; --dim:#8c959f;
+    --accent:#0d9488; --accent2:#7c3aed; --accent-soft:rgba(13,148,136,.15);
+    --danger:#cf222e;
+}
+
+[data-theme="midnight"]{ /* dark, cyan/violet */
+    --bg:#0b1220; --panel:#111827; --panel2:#0f1626; --line:#243049;
+    --text:#e5e7eb; --muted:#9aa6b8; --dim:#6b7689;
+    --accent:#22d3ee; --accent2:#a78bfa; --accent-soft:rgba(34,211,238,.15);
+    --danger:#f87171;
+}
+
+/* Plot panes (RQA / Cross-Wavelet / Cross-RQA / ELAN containers) — themed via
+   a class so they recolor on theme switch instead of keeping a stale inline bg */
+.plot-pane{ background:var(--panel); }
+
+/* Sticky toolbar: the time slider + the tab bar pin to the top together. */
+#stickyBar{
+    position:sticky;
+    top:0;
+    z-index:30;
+    background:var(--bg);
+    padding-top:8px;
+}
+#stickyBar .slider-container{ margin:6px 0 10px; }
+
+/* Tab bar — themed via classes so it recolors automatically on theme switch */
+.tabs{
+    border-bottom:2px solid var(--line);
+    margin:0;
+}
+.tab-button{
+    padding:10px 20px;
+    margin-right:5px;
+    background:var(--panel2);
+    color:var(--muted);
+    border:none;
+    border-bottom:3px solid transparent;
+    cursor:pointer;
+    font-family:inherit;
+    font-size:.95rem;
+    border-radius:6px 6px 0 0;
+    transition:color .15s, background .15s;
+}
+.tab-button:hover{ color:var(--text); }
+.tab-button.active{
+    background:var(--panel);
+    color:var(--text);
+    border-bottom-color:var(--accent);
+}
