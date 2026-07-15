@@ -1,0 +1,8 @@
+time_start,time_end,speaker,text
+0.031,4.2835,SPEAKER_01,"So, when you're driving..."
+4.2835,4.3003,SPEAKER_00,
+4.3003,5.0091,SPEAKER_01,the
+5.0091,9.211,SPEAKER_00,"machine that's like red, green, yellow"
+9.346,9.9197,SPEAKER_01,traffic light.
+10.9491,13.6153,SPEAKER_00,without the light. Traffic. Yeah.
+12.8897,13.3791,SPEAKER_01,TROPHET

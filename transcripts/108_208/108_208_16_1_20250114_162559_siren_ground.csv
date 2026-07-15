@@ -1,0 +1,10 @@
+time_start,time_end,speaker,text
+1.5328,6.0385,SPEAKER_00,um it is
+6.0385,6.6291,SPEAKER_01,
+6.6291,6.8822,SPEAKER_00,
+6.8822,6.916,SPEAKER_01,
+6.916,6.9328,SPEAKER_00,
+6.9328,9.2616,SPEAKER_01,"thing that goes like wee-oo, wee-oo, wee-oo."
+9.2616,12.0797,SPEAKER_00,What is...
+11.101,14.3916,SPEAKER_01,"What is the actual thing that goes like, oh, siren?"
+13.2103,14.3241,SPEAKER_00,Really? It's carbon. Yeah.
