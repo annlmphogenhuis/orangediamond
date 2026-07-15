@@ -69,6 +69,7 @@ MODEL_NAME = "pyannote/speaker-diarization-3.1"
 # The token is read from the HF_TOKEN environment variable (see README).
 # Never hard-code it here — it must not be committed.
 _HF_TOKEN = os.environ.get("HF_TOKEN")
+_HF_TOKEN = "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" #os.environ.get("HF_TOKEN")
 
 def extract_audio(video_path: str, audio_path: str) -> None:
     """Extract mono 16 kHz WAV from a video using ffmpeg."""
@@ -99,7 +100,7 @@ def run_diarization(audio_path: str, num_speakers=None, min_speakers=None, max_s
         )
 
     print(f"  [Diarization] Loading: {MODEL_NAME}")
-    pipeline = Pipeline.from_pretrained(MODEL_NAME, use_auth_token=_HF_TOKEN)
+    pipeline = Pipeline.from_pretrained(MODEL_NAME, token=_HF_TOKEN)
 
     if _torch.cuda.is_available():
         pipeline = pipeline.to(_torch.device("cuda"))

@@ -43,13 +43,26 @@ CORPUS = find_corpus_root(DIMS_DIR)
 MERGED = CORPUS / "merged"
 TS_AC = CORPUS / "TS_acoustics"
 GYRO_CSV = CORPUS / "gyroscope.csv"
+MOTION_DIR = CORPUS / "motiontracking"
 
 ASSETS = DIMS_DIR / "assets"
 TS_OUT = ASSETS / "timeseries"
 VID_OUT = ASSETS / "videos"
 ELAN_OUT = ASSETS / "elan"
+RQA_OUT = ASSETS / "rqa"
 
 TARGET_HZ = 50.0  # resample rate for the dense acoustic + gyro channels
+
+# Which multidimensional-wrist-RQA files feed the dashboard's RQA tab. We only
+# take the clue-giver's camera-01 HANDS view, and expose the position- and
+# velocity-based wrist embeddings as two separate RQA data types / plots.
+MDRQA_ROLE = "clueGiver"
+MDRQA_CAM = "cam01"
+MDRQA_LANDMARK = "hands"
+MDRQA_SOURCES = {
+    "wrists_hands": MOTION_DIR / "Output_mdRQA_wrists",
+    "wrists_velocity_hands": MOTION_DIR / "Output_mdRQA_wrists_velocity",
+}
 
 
 def moving_average(x, w):
@@ -107,6 +120,64 @@ def load_sway(gyro_all, dyad, trial_num):
     return tt, ll
 
 
+# --- multidimensional wrist RQA --------------------------------------------
+
+def _mdrqa_to_dashboard(md):
+    """Reshape one mdRQA_data block (from step_mdRQA_wrists.py) into the schema
+    the dashboard's RQA tab expects.
+
+    The dashboard draws a single 1-D marginal next to the recurrence plot, but
+    the mdRQA embedding is multidimensional. We collapse it to one displayable
+    series: the L2 norm of the per-dimension z-scored wrist coordinates (i.e. the
+    overall wrist displacement in the normalized state space).
+    """
+    vis = md["visualization"]
+    dims = list(vis["data"].keys())
+    arr = np.array([vis["data"][d] for d in dims], dtype=float).T  # (T, d)
+    mean = arr.mean(axis=0)
+    std = arr.std(axis=0)
+    std[std == 0] = 1.0
+    marginal = np.linalg.norm((arr - mean) / std, axis=1)
+
+    return {
+        "data_type": None,  # filled in by the caller
+        "dimensions": md["dimensions"],
+        "threshold": md["threshold"],
+        "recurrence_rate": md["recurrence_rate"],
+        "time_range": md["time_range"],
+        "windowed_metrics": md["windowed_metrics"],
+        "visualization": {
+            "time": vis["time"],
+            "data": marginal.tolist(),
+            "matrix_size": vis["matrix_size"],
+            "sparse_matrix": vis["sparse_matrix"],
+        },
+        "full_data": md.get("full_data", {}),
+    }
+
+
+def load_mdrqa(trial_id):
+    """Collect the clue-giver/cam01 hands wrist-mdRQA results for `trial_id`.
+
+    Returns {data_type: plotData} for the position and velocity variants that
+    exist, or an empty dict if none are present.
+    """
+    out = {}
+    for data_type, src_dir in MDRQA_SOURCES.items():
+        p = src_dir / f"{trial_id}_{MDRQA_ROLE}_{MDRQA_CAM}_{MDRQA_LANDMARK}_mdRQA.json"
+        if not p.exists():
+            continue
+        try:
+            md = json.loads(p.read_text())["mdRQA_data"]
+        except (ValueError, KeyError) as e:
+            print(f"  {trial_id}: malformed mdRQA file {p.name}: {e}")
+            continue
+        entry = _mdrqa_to_dashboard(md)
+        entry["data_type"] = data_type
+        out[data_type] = entry
+    return out
+
+
 # --- video symlink ---------------------------------------------------------
 
 def link_video(dyad, trial_id):
@@ -143,10 +214,12 @@ def discover_trials():
 # --- main ------------------------------------------------------------------
 
 def main():
-    for d in (TS_OUT, VID_OUT):
+    for d in (TS_OUT, VID_OUT, RQA_OUT):
         d.mkdir(parents=True, exist_ok=True)
     # Clear previously generated assets so removed channels / ELAN don't linger.
     for old in TS_OUT.glob("*.csv"):
+        old.unlink()
+    for old in RQA_OUT.glob("*_rqa_data.json"):
         old.unlink()
     if ELAN_OUT.exists():
         shutil.rmtree(ELAN_OUT)
@@ -160,6 +233,7 @@ def main():
 
     video_ids = []
     data_types = {}
+    rqa_types = set()  # union of wrist-mdRQA data types actually written
     warnings = []
 
     for dyad, trial_num, tid in trials_flat:
@@ -181,12 +255,22 @@ def main():
         add("f0", load_f0(tid))
         add("sway", load_sway(gyro_all, dyad, trial_num))
 
+        # Wrist multidimensional-RQA (clue-giver / cam01 only).
+        rqa = load_mdrqa(tid)
+        if rqa:
+            (RQA_OUT / f"{tid}_rqa_data.json").write_text(
+                json.dumps({"video_id": tid, "rqa_data": rqa}, indent=2))
+            rqa_types.update(rqa.keys())
+        else:
+            warnings.append(f"{tid}: no wrist mdRQA")
+
         video_ids.append(tid)
         data_types[tid] = channels
 
     config = {
         "videoIDs": video_ids,
         "dataTypes": data_types,
+        "include_RQA": sorted(rqa_types),
         "include_elan": False,
         "defaultWindowSize": 5,
         "title": "BalanceCorpus — DIMS",
@@ -196,7 +280,9 @@ def main():
     }
     (DIMS_DIR / "config.json").write_text(json.dumps(config, indent=2))
 
-    print(f"\nWrote config.json with {len(video_ids)} trials.")
+    n_rqa = len(list(RQA_OUT.glob("*_rqa_data.json")))
+    print(f"\nWrote config.json with {len(video_ids)} trials "
+          f"({n_rqa} with wrist mdRQA: {sorted(rqa_types)}).")
     if warnings:
         print(f"\n{len(warnings)} warnings:")
         for w in warnings:

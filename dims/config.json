@@ -83,406 +83,250 @@
   ],
   "dataTypes": {
     "103_203_12_1_20250113_152455_doughnut_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_13_1_20250113_152513_spinach_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_14_1_20250113_152536_balloon_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_15_1_20250113_152557_bacon_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_16_1_20250113_152613_chlorine_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_17_1_20250113_152643_leather_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_18_1_20250113_152657_pillow_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_19_1_20250113_152712_traffic_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_20_1_20250113_152735_bitter_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_21_1_20250113_152824_tiger_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_23_1_20250113_152946_trumpet_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_24_1_20250113_152957_pasta_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_25_1_20250113_153028_hamster_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_26_1_20250113_153140_siren_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_27_1_20250113_153217_jungle_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_28_1_20250113_153235_birthday_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_29_1_20250113_153255_cherry_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_30_1_20250113_153310_exam_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_31_1_20250113_153333_flower_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_32_1_20250113_153341_coffee_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_34_1_20250113_153427_picture_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_35_1_20250113_153443_yellow_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_36_1_20250113_153454_flannel_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_37_1_20250113_153517_movie_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_38_1_20250113_153528_puppy_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_39_1_20250113_153540_muscle_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_40_1_20250113_153555_beauty_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_41_1_20250113_153604_sugar_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_42_1_20250113_153614_sushi_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_43_1_20250113_153626_gravy_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_45_1_20250113_153745_walnut_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_46_1_20250113_153759_blanket_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_47_1_20250113_153811_soda_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_48_1_20250113_153828_hunger_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_49_1_20250113_153839_christmas_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_50_1_20250113_153852_butter_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_51_1_20250113_153926_cologne_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_52_1_20250113_154037_zipper_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_53_1_20250113_154055_river_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "103_203_54_1_20250113_154107_music_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_12_1_20250114_162456_flower_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_13_1_20250114_162512_traffic_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_14_1_20250114_162535_zipper_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_15_1_20250114_162542_gravy_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_16_1_20250114_162559_siren_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_17_1_20250114_162610_cherry_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_18_1_20250114_162618_coffee_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_19_1_20250114_162700_cologne_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_20_1_20250114_162723_bitter_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_21_1_20250114_162731_sugar_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_23_1_20250114_162817_tiger_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_24_1_20250114_162831_exam_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_25_1_20250114_162844_puppy_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_26_1_20250114_162904_hamster_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_27_1_20250114_162936_bacon_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_28_1_20250114_162956_river_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_29_1_20250114_163011_walnut_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_30_1_20250114_163024_butter_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_31_1_20250114_163033_leather_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_32_1_20250114_163057_chlorine_ground": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_34_1_20250114_163148_movie_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_35_1_20250114_163156_pasta_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_36_1_20250114_163248_balloon_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_37_1_20250114_163259_muscle_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_38_1_20250114_163310_birthday_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_39_1_20250114_163319_beauty_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_40_1_20250114_163328_christmas_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_41_1_20250114_163344_trumpet_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_42_1_20250114_163352_music_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_43_1_20250114_163408_hunger_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_45_1_20250114_163506_sushi_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_46_1_20250114_163523_jungle_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_47_1_20250114_163536_yellow_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_48_1_20250114_163634_flannel_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_49_1_20250114_163641_doughnut_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_50_1_20250114_163655_picture_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_51_1_20250114_163806_spinach_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_52_1_20250114_163842_blanket_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_53_1_20250114_163852_pillow_board": [
-      "envelope",
-      "f0",
       "sway"
     ],
     "108_208_54_1_20250114_163903_soda_board": [
-      "envelope",
-      "f0",
       "sway"
     ]
   },
+  "include_RQA": [
+    "wrists_hands",
+    "wrists_velocity_hands"
+  ],
   "include_elan": false,
   "defaultWindowSize": 5,
   "title": "BalanceCorpus \u2014 DIMS",
