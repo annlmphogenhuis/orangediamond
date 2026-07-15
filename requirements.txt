@@ -1,0 +1,22 @@
+# Python dependencies for the orangediamond diarization scripts.
+# Versions pinned from the `story` conda env (Python 3.12).
+
+# Speech-to-text / diarization
+faster-whisper==1.2.1
+ctranslate2==4.8.1
+onnxruntime==1.27.0
+huggingface_hub==0.36.2
+torch==2.8.0
+torchaudio==2.8.0
+soundfile==0.13.1
+
+# Scientific / data
+numpy==2.5.1
+scipy==1.18.0
+pandas==2.3.3
+matplotlib==3.10.8
+pycwt==0.4.0b0
+
+# Utilities
+requests==2.33.1
+tqdm==4.67.3
