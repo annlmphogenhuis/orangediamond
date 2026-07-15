@@ -1,1 +1,6 @@
 /dims/assets
+/merged
+*.mp4
+.DS_Store
+__pycache__/
+*.pyc

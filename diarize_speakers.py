@@ -66,8 +66,9 @@ _hfh.hf_hub_download = _patched_hf_hub_download
 
 MODEL_NAME = "pyannote/speaker-diarization-3.1"
 
-# Optional: set HF_TOKEN env var if the model requires authentication
-# _HF_TOKEN="hf_your_token_here"
+# The token is read from the HF_TOKEN environment variable (see README).
+# Never hard-code it here — it must not be committed.
+_HF_TOKEN = os.environ.get("HF_TOKEN")
 
 def extract_audio(video_path: str, audio_path: str) -> None:
     """Extract mono 16 kHz WAV from a video using ffmpeg."""
