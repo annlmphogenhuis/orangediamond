@@ -1,0 +1,624 @@
+trial_id,pair_id,trial_number,condition,target_word,participant_id,role,channel,seg,start,end,text,language
+103_203_12_1_20250113_152455_doughnut_board,103_203,12,board,doughnut,203,guesser,L,0,14.46,15.66,Sweet bread doughnuts.,en
+103_203_12_1_20250113_152455_doughnut_board,103_203,12,board,doughnut,203,guesser,L,1,16.16,16.66,Okay.,en
+103_203_12_1_20250113_152455_doughnut_board,103_203,12,board,doughnut,103,clue_giver,R,0,1.01,4.07,"Okay, it's like something sweet like",en
+103_203_12_1_20250113_152455_doughnut_board,103_203,12,board,doughnut,103,clue_giver,R,1,5.33,6.69,a,en
+103_203_12_1_20250113_152455_doughnut_board,103_203,12,board,doughnut,103,clue_giver,R,2,6.69,8.69,"Like think bread, but sweet",en
+103_203_12_1_20250113_152455_doughnut_board,103_203,12,board,doughnut,103,clue_giver,R,3,11.05,13.79,Like that and then has another one in the middle,en
+103_203_13_1_20250113_152513_spinach_board,103_203,13,board,spinach,203,guesser,L,0,9.67,10.67,Cabbage.,en
+103_203_13_1_20250113_152513_spinach_board,103_203,13,board,spinach,203,guesser,L,1,12.67,14.67,No similar to that I think.,en
+103_203_13_1_20250113_152513_spinach_board,103_203,13,board,spinach,203,guesser,L,2,14.67,15.67,Spinach.,en
+103_203_13_1_20250113_152513_spinach_board,103_203,13,board,spinach,203,guesser,L,3,15.67,16.67,Yeah.,en
+103_203_13_1_20250113_152513_spinach_board,103_203,13,board,spinach,103,clue_giver,R,0,2.8,13.8,"Uh, oh no. It's like, I think Lattice, but not Lattice, similar to Lattice. No, no similar to that I think.",en
+103_203_14_1_20250113_152536_balloon_board,103_203,14,board,balloon,203,guesser,L,0,18.02,20.02,Say happy birthday I guess.,en
+103_203_14_1_20250113_152536_balloon_board,103_203,14,board,balloon,103,clue_giver,R,0,2.61,4.61,It's latex.,en
+103_203_14_1_20250113_152536_balloon_board,103_203,14,board,balloon,103,clue_giver,R,1,4.61,6.61,"You, um...",en
+103_203_14_1_20250113_152536_balloon_board,103_203,14,board,balloon,103,clue_giver,R,2,8.61,10.61,"No, you sort of like...",en
+103_203_14_1_20250113_152536_balloon_board,103_203,14,board,balloon,103,clue_giver,R,3,10.61,12.61,Uh...,en
+103_203_14_1_20250113_152536_balloon_board,103_203,14,board,balloon,103,clue_giver,R,4,12.61,15.61,You have them at parties a lot.,en
+103_203_14_1_20250113_152536_balloon_board,103_203,14,board,balloon,103,clue_giver,R,5,15.61,18.61,You usually give them to someone like...,en
+103_203_14_1_20250113_152536_balloon_board,103_203,14,board,balloon,103,clue_giver,R,6,20.61,22.61,Yeah.,en
+103_203_15_1_20250113_152557_bacon_board,103_203,15,board,bacon,203,guesser,L,0,6.99,8.03,Pig. Pork.,en
+103_203_15_1_20250113_152557_bacon_board,103_203,15,board,bacon,203,guesser,L,1,12.35,14.27,Pork. A beef.,en
+103_203_15_1_20250113_152557_bacon_board,103_203,15,board,bacon,203,guesser,L,2,18.19,18.59,Bacon.,en
+103_203_15_1_20250113_152557_bacon_board,103_203,15,board,bacon,103,clue_giver,R,0,1.2,6.08,"Okay, it's a type of meat comes from an animal that's pink",en
+103_203_15_1_20250113_152557_bacon_board,103_203,15,board,bacon,103,clue_giver,R,1,9.72,11.22,No,en
+103_203_15_1_20250113_152557_bacon_board,103_203,15,board,bacon,103,clue_giver,R,2,11.22,14.98,Similother,en
+103_203_15_1_20250113_152557_bacon_board,103_203,15,board,bacon,103,clue_giver,R,3,14.98,17.48,"No, no, no, it's like streaky",en
+103_203_16_1_20250113_152613_chlorine_board,103_203,16,board,chlorine,203,guesser,L,0,12.13,13.13,Chlorine.,en
+103_203_16_1_20250113_152613_chlorine_board,103_203,16,board,chlorine,103,clue_giver,R,0,3.98,12.62,"Okay, on the periodic table it would look like CL.",en
+103_203_17_1_20250113_152643_leather_board,103_203,17,board,leather,203,guesser,L,0,23.41,27.73,You it gives milk. Cow. Yeah. Leather. Yeah.,en
+103_203_17_1_20250113_152643_leather_board,103_203,17,board,leather,103,clue_giver,R,0,1.78,3.78,"Okay, this is a type",en
+103_203_17_1_20250113_152643_leather_board,103_203,17,board,leather,103,clue_giver,R,1,4.24,9.34,"Okay, you can make clouds out of this and it's from an animal",en
+103_203_17_1_20250113_152643_leather_board,103_203,17,board,leather,103,clue_giver,R,2,13.98,17.7,think,en
+103_203_17_1_20250113_152643_leather_board,103_203,17,board,leather,103,clue_giver,R,3,18.14,21.82,From an animal that's white with like black patches on it usually,en
+103_203_17_1_20250113_152643_leather_board,103_203,17,board,leather,103,clue_giver,R,4,23.1,25.1,You it gives milk,en
+103_203_18_1_20250113_152657_pillow_board,103_203,18,board,pillow,203,guesser,L,0,7.65,9.65,Bed. Sleep. Pillow.,en
+103_203_18_1_20250113_152657_pillow_board,103_203,18,board,pillow,203,guesser,L,1,9.65,11.65,Yeah.,en
+103_203_18_1_20250113_152657_pillow_board,103_203,18,board,pillow,103,clue_giver,R,0,2.48,6.86,You do this on it.,en
+103_203_18_1_20250113_152657_pillow_board,103_203,18,board,pillow,103,clue_giver,R,1,9.86,10.86,Yeah.,en
+103_203_19_1_20250113_152712_traffic_board,103_203,19,board,traffic,203,guesser,L,0,11.92,13.92,Traffic.,en
+103_203_19_1_20250113_152712_traffic_board,103_203,19,board,traffic,103,clue_giver,R,0,2.19,7.71,This usually happens when you're in the car and it can be quite annoying,en
+103_203_19_1_20250113_152712_traffic_board,103_203,19,board,traffic,103,clue_giver,R,1,9.03,11.43,But it's when there's lots of cars on the road,en
+103_203_20_1_20250113_152735_bitter_board,103_203,20,board,bitter,103,clue_giver,R,0,2.77,14.72,Think like lemon or like lime you know that sort of weird after feel you get it's that,en
+103_203_20_1_20250113_152735_bitter_board,103_203,20,board,bitter,103,clue_giver,R,1,16.46,18.46,It's quite difficult to explain,en
+103_203_20_1_20250113_152735_bitter_board,103_203,20,board,bitter,103,clue_giver,R,2,20.3,22.3,Yeah,en
+103_203_21_1_20250113_152824_tiger_board,103_203,21,board,tiger,203,guesser,L,0,28.12,29.12,Mold.,en
+103_203_21_1_20250113_152824_tiger_board,103_203,21,board,tiger,203,guesser,L,1,31.12,32.12,Furry.,en
+103_203_21_1_20250113_152824_tiger_board,103_203,21,board,tiger,203,guesser,L,2,37.12,38.12,It's...,en
+103_203_21_1_20250113_152824_tiger_board,103_203,21,board,tiger,203,guesser,L,3,43.12,44.12,Panther.,en
+103_203_21_1_20250113_152824_tiger_board,103_203,21,board,tiger,203,guesser,L,4,44.12,45.12,Tiger.,en
+103_203_21_1_20250113_152824_tiger_board,103_203,21,board,tiger,103,clue_giver,R,0,0.0,10.91,"Um, can I say that isn't one of the words there.",en
+103_203_21_1_20250113_152824_tiger_board,103_203,21,board,tiger,103,clue_giver,R,1,10.91,22.51,"Um, so, sort of like farry in, I really don't know how to say that without any other words.",en
+103_203_21_1_20250113_152824_tiger_board,103_203,21,board,tiger,103,clue_giver,R,2,22.51,36.12,"Um, a dangerous, no, it's, lives in, yeah, lives in the wild.",en
+103_203_21_1_20250113_152824_tiger_board,103_203,21,board,tiger,103,clue_giver,R,3,37.0,43.0,"It's, it's not king of the jungle, but like similar in, in that area.",en
+103_203_23_1_20250113_152946_trumpet_ground,103_203,23,ground,trumpet,203,clue_giver,L,0,1.74,5.74,"Oh, um, right.",en
+103_203_23_1_20250113_152946_trumpet_ground,103_203,23,ground,trumpet,203,clue_giver,L,1,6.74,26.17,"Uh, metal cone-like thing that you play with your mouth that isn't the saxophone, but is in a similar genre.",en
+103_203_23_1_20250113_152946_trumpet_ground,103_203,23,ground,trumpet,203,clue_giver,L,2,26.17,32.08,Next one. There we go.,en
+103_203_23_1_20250113_152946_trumpet_ground,103_203,23,ground,trumpet,103,guesser,R,0,19.82,21.82,Uh...,en
+103_203_23_1_20250113_152946_trumpet_ground,103_203,23,ground,trumpet,103,guesser,R,1,27.82,29.82,Something like that?,en
+103_203_24_1_20250113_152957_pasta_ground,103_203,24,ground,pasta,203,clue_giver,L,0,1.42,7.42,"Okay, Italian's favourite food.",en
+103_203_24_1_20250113_152957_pasta_ground,103_203,24,ground,pasta,203,clue_giver,L,1,8.42,9.42,"Yeah, pasta.",en
+103_203_24_1_20250113_152957_pasta_ground,103_203,24,ground,pasta,203,clue_giver,L,2,9.42,10.42,Yeah.,en
+103_203_25_1_20250113_153028_hamster_ground,103_203,25,ground,hamster,203,clue_giver,L,0,0.88,7.79,"Um, okay, they're small people people own them",en
+103_203_25_1_20250113_153028_hamster_ground,103_203,25,ground,hamster,203,clue_giver,L,1,9.61,16.3,They had a movie where they were spies they are an animal,en
+103_203_25_1_20250113_153028_hamster_ground,103_203,25,ground,hamster,203,clue_giver,L,2,17.88,26.08,People look after them they roll around in balls plastic plastic balls,en
+103_203_25_1_20250113_153028_hamster_ground,103_203,25,ground,hamster,203,clue_giver,L,3,27.54,29.54,There we go,en
+103_203_25_1_20250113_153028_hamster_ground,103_203,25,ground,hamster,103,guesser,R,0,13.34,14.54,Marbles?,en
+103_203_25_1_20250113_153028_hamster_ground,103_203,25,ground,hamster,103,guesser,R,1,16.7,17.74,Oh an animal.,en
+103_203_25_1_20250113_153028_hamster_ground,103_203,25,ground,hamster,103,guesser,R,2,17.74,19.82,Uh rats mice.,en
+103_203_25_1_20250113_153028_hamster_ground,103_203,25,ground,hamster,103,guesser,R,3,27.06,27.78,Oh hamsters.,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,203,clue_giver,L,0,2.83,24.83,It's a thing that produces another thing in anticipation of natural disasters to alert people of danger.,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,203,clue_giver,L,1,33.46,37.46,Close. What's the machine that produces an alert?,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,203,clue_giver,L,2,37.46,51.64,It's a... yes. Yes.,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,203,clue_giver,L,3,51.64,60.64,They're on emergency service vehicles. They're also on natural disaster.,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,203,clue_giver,L,4,63.64,64.64,Yeah.,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,103,guesser,R,0,26.12,28.12,Is there like a...,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,103,guesser,R,1,29.12,31.12,an allot? Like...,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,103,guesser,R,2,33.12,34.12,Warning.,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,103,guesser,R,3,46.46,50.46,Is it like that thing where it has the red thing inside and spins around?,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,103,guesser,R,4,58.83,60.83,There are also on disaster vehicles.,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,103,guesser,R,5,60.83,63.83,"No, I know, I know, I know. The things on ambulances.",en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,103,guesser,R,6,64.83,66.83,Uh huh. What are they called?,en
+103_203_26_1_20250113_153140_siren_ground,103_203,26,ground,siren,103,guesser,R,7,66.83,68.83,An alarm. I don't know.,en
+103_203_27_1_20250113_153217_jungle_ground,103_203,27,ground,jungle,203,clue_giver,L,0,1.26,3.26,"Okay, um",en
+103_203_27_1_20250113_153217_jungle_ground,103_203,27,ground,jungle,203,clue_giver,L,1,5.76,7.76,The big thing in,en
+103_203_27_1_20250113_153217_jungle_ground,103_203,27,ground,jungle,203,clue_giver,L,2,10.02,15.82,Brazil the big natural,en
+103_203_27_1_20250113_153217_jungle_ground,103_203,27,ground,jungle,203,clue_giver,L,3,17.24,19.24,collection of,en
+103_203_27_1_20250113_153217_jungle_ground,103_203,27,ground,jungle,203,clue_giver,L,4,20.3,22.3,Plants and,en
+103_203_27_1_20250113_153217_jungle_ground,103_203,27,ground,jungle,203,clue_giver,L,5,23.12,26.02,Other word there we go,en
+103_203_27_1_20250113_153217_jungle_ground,103_203,27,ground,jungle,103,guesser,R,0,24.38,25.38,Jungle.,en
+103_203_28_1_20250113_153235_birthday_ground,103_203,28,ground,birthday,203,clue_giver,L,0,1.07,15.06,You have it once every year and it marks the start of your life.,en
+103_203_28_1_20250113_153235_birthday_ground,103_203,28,ground,birthday,203,clue_giver,L,1,15.06,17.06,There we go.,en
+103_203_29_1_20250113_153255_cherry_ground,103_203,29,ground,cherry,203,clue_giver,L,0,0.85,14.85,There's two of them. They come on little stalks. They are a thing that you eat.,en
+103_203_29_1_20250113_153255_cherry_ground,103_203,29,ground,cherry,203,clue_giver,L,1,14.85,16.85,And yeah.,en
+103_203_30_1_20250113_153310_exam_ground,103_203,30,ground,exam,203,clue_giver,L,0,0.88,12.88,You have to sit them. You don't really like them. They come at the end of the year in university and yeah.,en
+103_203_31_1_20250113_153333_flower_ground,103_203,31,ground,flower,203,clue_giver,L,0,1.14,17.46,"They are bright, they've got lots of little things, they grow in meadows, people cut them.",en
+103_203_31_1_20250113_153333_flower_ground,103_203,31,ground,flower,203,clue_giver,L,1,17.46,19.46,General category.,en
+103_203_31_1_20250113_153333_flower_ground,103_203,31,ground,flower,203,clue_giver,L,2,19.46,21.46,There we go.,en
+103_203_32_1_20250113_153341_coffee_ground,103_203,32,ground,coffee,203,clue_giver,L,0,0.85,3.85,"Um, Starbucks.",en
+103_203_32_1_20250113_153341_coffee_ground,103_203,32,ground,coffee,203,clue_giver,L,1,3.85,5.85,Yep.,en
+103_203_32_1_20250113_153341_coffee_ground,103_203,32,ground,coffee,103,guesser,R,0,5.48,6.48,Yeah.,en
+103_203_34_1_20250113_153427_picture_ground,103_203,34,ground,picture,203,guesser,L,0,7.65,8.29,Photo.,en
+103_203_34_1_20250113_153427_picture_ground,103_203,34,ground,picture,203,guesser,L,1,10.69,11.41,Image.,en
+103_203_34_1_20250113_153427_picture_ground,103_203,34,ground,picture,203,guesser,L,2,13.17,14.97,"Er, landscape.",en
+103_203_34_1_20250113_153427_picture_ground,103_203,34,ground,picture,203,guesser,L,3,16.49,17.29,Selfie.,en
+103_203_34_1_20250113_153427_picture_ground,103_203,34,ground,picture,203,guesser,L,4,18.85,19.49,Picture.,en
+103_203_34_1_20250113_153427_picture_ground,103_203,34,ground,picture,103,clue_giver,R,0,1.49,8.17,"Okay, you can take it on your phone, but I guess you could also print it out and look at it",en
+103_203_34_1_20250113_153427_picture_ground,103_203,34,ground,picture,103,clue_giver,R,1,9.05,12.97,Close another word for that image sort of another word for that,en
+103_203_34_1_20250113_153427_picture_ground,103_203,34,ground,picture,103,clue_giver,R,2,15.49,18.11,No begins with a P,en
+103_203_35_1_20250113_153443_yellow_ground,103_203,35,ground,yellow,203,guesser,L,0,12.73,13.73,Yellow.,en
+103_203_35_1_20250113_153443_yellow_ground,103_203,35,ground,yellow,103,clue_giver,R,0,2.45,12.45,"Okay, uh, this thing add green equals blue.",en
+103_203_35_1_20250113_153443_yellow_ground,103_203,35,ground,yellow,103,clue_giver,R,1,13.45,14.45,Yeah.,en
+103_203_36_1_20250113_153454_flannel_ground,103_203,36,ground,flannel,203,guesser,L,0,5.07,7.07,What's the wash your face?,en
+103_203_36_1_20250113_153454_flannel_ground,103_203,36,ground,flannel,203,guesser,L,1,7.07,8.07,Flannel.,en
+103_203_37_1_20250113_153517_movie_ground,103_203,37,ground,movie,203,guesser,L,0,19.68,20.68,Movie.,en
+103_203_37_1_20250113_153517_movie_ground,103_203,37,ground,movie,103,clue_giver,R,0,2.54,19.05,sort of like you can you watch it on your TV it's sort of usually like an hour,en
+103_203_38_1_20250113_153528_puppy_ground,103_203,38,ground,puppy,203,guesser,L,0,7.35,9.35,"Cats, dog, puppy.",en
+103_203_38_1_20250113_153528_puppy_ground,103_203,38,ground,puppy,103,clue_giver,R,0,1.62,7.78,"Okay, it's really cute. It's an animal and it's usually like a domestic animal as well",en
+103_203_38_1_20250113_153528_puppy_ground,103_203,38,ground,puppy,103,clue_giver,R,1,9.1,11.1,Yeah,en
+103_203_39_1_20250113_153540_muscle_ground,103_203,39,ground,muscle,203,guesser,L,0,7.18,9.18,Bicep muscle.,en
+103_203_39_1_20250113_153540_muscle_ground,103_203,39,ground,muscle,103,clue_giver,R,0,0.98,2.98,This is a poll of your...,en
+103_203_39_1_20250113_153540_muscle_ground,103_203,39,ground,muscle,103,clue_giver,R,1,2.98,6.7,...duck there.,en
+103_203_39_1_20250113_153540_muscle_ground,103_203,39,ground,muscle,103,clue_giver,R,2,7.7,8.7,No?,en
+103_203_40_1_20250113_153555_beauty_ground,103_203,40,ground,beauty,203,guesser,L,0,11.18,13.18,Beauty.,en
+103_203_40_1_20250113_153555_beauty_ground,103_203,40,ground,beauty,103,clue_giver,R,0,3.09,10.49,"Okay, think of a Disney movie something and the base",en
+103_203_41_1_20250113_153604_sugar_ground,103_203,41,ground,sugar,203,guesser,L,0,4.93,5.93,Milk.,en
+103_203_41_1_20250113_153604_sugar_ground,103_203,41,ground,sugar,203,guesser,L,1,6.93,7.93,Sugar.,en
+103_203_41_1_20250113_153604_sugar_ground,103_203,41,ground,sugar,203,guesser,L,2,7.93,8.93,Yeah.,en
+103_203_41_1_20250113_153604_sugar_ground,103_203,41,ground,sugar,103,clue_giver,R,0,1.36,4.64,You usually put this in coffee.,en
+103_203_41_1_20250113_153604_sugar_ground,103_203,41,ground,sugar,103,clue_giver,R,1,5.64,6.64,It's a condiment.,en
+103_203_41_1_20250113_153604_sugar_ground,103_203,41,ground,sugar,103,clue_giver,R,2,7.64,8.64,Yeah.,en
+103_203_42_1_20250113_153614_sushi_ground,103_203,42,ground,sushi,203,guesser,L,0,6.3,6.8,Sushi.,en
+103_203_42_1_20250113_153614_sushi_ground,103_203,42,ground,sushi,103,clue_giver,R,0,1.23,6.23,"Um, this is like a Japanese food.",en
+103_203_42_1_20250113_153614_sushi_ground,103_203,42,ground,sushi,103,clue_giver,R,1,7.23,8.23,Yeah.,en
+103_203_43_1_20250113_153626_gravy_ground,103_203,43,ground,gravy,203,guesser,L,0,8.0,9.0,Gravy.,en
+103_203_43_1_20250113_153626_gravy_ground,103_203,43,ground,gravy,103,clue_giver,R,0,1.55,7.67,"Okay, British people always put this on like a food you usually have on I would say a Sunday",en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,0,3.54,10.54,"Okay, one word, two parts, no hyphen.",en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,1,10.54,15.54,What do you call the thing behind you?,en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,2,15.54,19.54,"Okay, and what do you call...",en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,3,19.54,21.54,"No, you got it already.",en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,4,21.54,23.54,Second part of the word.,en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,5,23.54,28.54,What do you call P?,en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,6,28.54,34.23,"Second part of P, the type of food you eat.",en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,7,34.23,37.23,"They're usually salted, you get them in bars.",en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,8,37.23,39.23,"Oh, they're nice.",en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,203,clue_giver,L,9,39.23,40.23,There we go.,en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,103,guesser,R,0,18.73,19.73,Wallpaper,en
+103_203_45_1_20250113_153745_walnut_board,103_203,45,board,walnut,103,guesser,R,1,37.39,38.39,Wall- Wallnarts,en
+103_203_46_1_20250113_153759_blanket_board,103_203,46,board,blanket,203,clue_giver,L,0,0.02,10.02,"Um, big rectangular fluffy thing that you wrap yourself with.",en
+103_203_46_1_20250113_153759_blanket_board,103_203,46,board,blanket,203,clue_giver,L,1,10.02,11.52,There we go.,en
+103_203_47_1_20250113_153811_soda_board,103_203,47,board,soda,203,clue_giver,L,0,1.26,3.26,Okay.,en
+103_203_47_1_20250113_153811_soda_board,103_203,47,board,soda,203,clue_giver,L,1,6.26,7.26,Fizzy?,en
+103_203_47_1_20250113_153811_soda_board,103_203,47,board,soda,203,clue_giver,L,2,8.26,9.26,Yep.,en
+103_203_48_1_20250113_153828_hunger_board,103_203,48,board,hunger,203,clue_giver,L,0,0.91,10.6,painful feeling here. What does that represent? You need to consume things. There we go.,en
+103_203_48_1_20250113_153828_hunger_board,103_203,48,board,hunger,103,guesser,R,0,6.02,7.02,Stomachache.,en
+103_203_49_1_20250113_153839_christmas_board,103_203,49,board,christmas,203,clue_giver,L,0,1.94,9.94,"Um, celebrated once per year. Big tree. There we go.",en
+103_203_50_1_20250113_153852_butter_board,103_203,50,board,butter,203,clue_giver,L,0,0.85,5.85,It's yellow.,en
+103_203_50_1_20250113_153852_butter_board,103_203,50,board,butter,203,clue_giver,L,1,5.85,9.85,You put it on.,en
+103_203_50_1_20250113_153852_butter_board,103_203,50,board,butter,203,clue_giver,L,2,9.85,10.85,There we go.,en
+103_203_51_1_20250113_153926_cologne_board,103_203,51,board,cologne,203,clue_giver,L,0,1.71,10.71,"It's a French word for a thing that people, that men wear.",en
+103_203_51_1_20250113_153926_cologne_board,103_203,51,board,cologne,203,clue_giver,L,1,10.71,20.5,It's sprayed on.,en
+103_203_51_1_20250113_153926_cologne_board,103_203,51,board,cologne,203,clue_giver,L,2,20.5,26.5,"Yes, it produces a smell.",en
+103_203_51_1_20250113_153926_cologne_board,103_203,51,board,cologne,203,clue_giver,L,3,26.5,30.26,Clone.,en
+103_203_51_1_20250113_153926_cologne_board,103_203,51,board,cologne,203,clue_giver,L,4,30.26,32.26,"Clone, yeah.",en
+103_203_51_1_20250113_153926_cologne_board,103_203,51,board,cologne,103,guesser,R,0,20.94,21.94,Sprayed on?,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,203,clue_giver,L,0,0.78,9.78,You have it on your trousers and you have to pull it up at the front of your trousers.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,203,clue_giver,L,1,9.78,12.78,Second thing.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,203,clue_giver,L,2,12.78,21.61,"Thing at the front of your trousers, that's the first part of the word.",en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,203,clue_giver,L,3,21.61,27.11,And then what do you call that specifically on the trousers?,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,203,clue_giver,L,4,27.11,39.19,Other word for that containing those first three letters.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,203,clue_giver,L,5,42.19,46.73,"First three letters, you've already said.",en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,203,clue_giver,L,6,46.73,48.73,Second three letters.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,203,clue_giver,L,7,48.73,55.36,A thing that does that on the front of your trousers.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,0,10.2,11.2,About?,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,1,17.2,19.2,Zip.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,2,19.2,20.2,Buttons?,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,3,21.2,23.2,Oh.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,4,36.27,37.27,What?,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,5,37.27,38.27,Zip.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,6,38.27,40.27,I think the second part contains...,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,7,40.27,41.27,Six letters.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,8,42.27,44.27,First three letters.,en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,9,55.94,59.94,"Uh, it's not a zip tie, is it?",en
+103_203_52_1_20250113_154037_zipper_board,103_203,52,board,zipper,103,guesser,R,10,59.94,60.94,No.,en
+103_203_53_1_20250113_154055_river_board,103_203,53,board,river,203,clue_giver,L,0,1.39,5.39,"Um, big thing.",en
+103_203_53_1_20250113_154055_river_board,103_203,53,board,river,203,clue_giver,L,1,6.39,7.39,There we go.,en
+103_203_53_1_20250113_154055_river_board,103_203,53,board,river,103,guesser,R,0,5.28,6.52,"Lake, river.",en
+103_203_54_1_20250113_154107_music_board,103_203,54,board,music,203,clue_giver,L,0,1.23,6.23,You listen to it.,en
+103_203_54_1_20250113_154107_music_board,103_203,54,board,music,203,clue_giver,L,1,6.23,9.23,A thing that comes out of headphones.,en
+103_203_54_1_20250113_154107_music_board,103_203,54,board,music,203,clue_giver,L,2,9.23,10.23,There we go.,en
+103_203_54_1_20250113_154107_music_board,103_203,54,board,music,103,guesser,R,0,8.82,9.66,Music.,en
+108_208_12_1_20250114_162456_flower_ground,108_208,12,ground,flower,208,guesser,L,0,4.83,5.83,Tree.,en
+108_208_12_1_20250114_162456_flower_ground,108_208,12,ground,flower,108,clue_giver,R,0,1.62,4.02,"Okay, so it grows in soil",en
+108_208_12_1_20250114_162456_flower_ground,108_208,12,ground,flower,108,clue_giver,R,1,5.78,8.14,It's small like photosynthesis,en
+108_208_12_1_20250114_162456_flower_ground,108_208,12,ground,flower,108,clue_giver,R,2,9.02,12.6,It's a lily that what is a lily a type of yeah,en
+108_208_13_1_20250114_162512_traffic_ground,108_208,13,ground,traffic,208,guesser,L,0,8.97,10.97,Traffic light.,en
+108_208_13_1_20250114_162512_traffic_ground,108_208,13,ground,traffic,208,guesser,L,1,12.97,13.97,Traffic.,en
+108_208_13_1_20250114_162512_traffic_ground,108_208,13,ground,traffic,108,clue_giver,R,0,1.17,12.61,"So when you're driving the machine that's like red, green, yellow, without the light.",en
+108_208_14_1_20250114_162535_zipper_ground,108_208,14,ground,zipper,108,clue_giver,R,0,0.91,2.91,So something that you...,en
+108_208_14_1_20250114_162535_zipper_ground,108_208,14,ground,zipper,108,clue_giver,R,1,5.39,9.47,"So it's on a jacket. It's like the metal part, the middle part of a jacket.",en
+108_208_14_1_20250114_162535_zipper_ground,108_208,14,ground,zipper,108,clue_giver,R,2,11.17,13.17,"Yeah, is that how?",en
+108_208_14_1_20250114_162535_zipper_ground,108_208,14,ground,zipper,108,clue_giver,R,3,13.81,20.33,"Okay, maybe not. The like on your jeans is basically what you said, but like the bit, yeah.",en
+108_208_15_1_20250114_162542_gravy_ground,108_208,15,ground,gravy,108,clue_giver,R,0,1.01,6.01,"So you pour this on like a roast, it's brown. Yeah.",en
+108_208_16_1_20250114_162559_siren_ground,108_208,16,ground,siren,208,guesser,L,0,13.8,15.8,siren?,en
+108_208_16_1_20250114_162559_siren_ground,108_208,16,ground,siren,108,clue_giver,R,0,1.17,9.17,"It is the thing that goes like wee-oo, wee-oo, wee-oo.",en
+108_208_16_1_20250114_162559_siren_ground,108_208,16,ground,siren,108,clue_giver,R,1,9.17,14.17,"What is the actual thing that goes like wee-oo, wee-oo?",en
+108_208_16_1_20250114_162559_siren_ground,108_208,16,ground,siren,108,clue_giver,R,2,14.17,15.17,Yeah.,en
+108_208_17_1_20250114_162610_cherry_ground,108_208,17,ground,cherry,208,guesser,L,0,9.1,10.1,Yeah.,en
+108_208_17_1_20250114_162610_cherry_ground,108_208,17,ground,cherry,108,clue_giver,R,0,1.07,7.07,"So there's like a phrase that's like, like pretty please with a on top.",en
+108_208_17_1_20250114_162610_cherry_ground,108_208,17,ground,cherry,108,clue_giver,R,1,7.07,9.07,Yeah. Yeah.,en
+108_208_18_1_20250114_162618_coffee_ground,108_208,18,ground,coffee,108,clue_giver,R,0,1.07,5.07,So you can have like an iced version of this drink.,en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,208,guesser,L,0,6.06,7.06,Aftershave.,en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,208,guesser,L,1,38.34,39.34,Clone?,en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,108,clue_giver,R,0,1.71,8.47,So it's like the men's version of similar.,en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,108,clue_giver,R,1,10.65,15.65,It's like the fancy version of saying offshave.,en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,108,clue_giver,R,2,18.91,20.39,Like it's not...,en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,108,clue_giver,R,3,21.55,22.89,"Ooh, I don't know.",en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,108,clue_giver,R,4,22.89,25.23,It's like...,en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,108,clue_giver,R,5,27.11,29.93,It rhymes with...,en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,108,clue_giver,R,6,37.03,39.29,It rhymes with like Malone.,en
+108_208_19_1_20250114_162700_cologne_ground,108_208,19,ground,cologne,108,clue_giver,R,7,39.29,40.13,Yeah.,en
+108_208_20_1_20250114_162723_bitter_ground,108_208,20,ground,bitter,208,guesser,L,0,14.23,15.23,Zesty.,en
+108_208_20_1_20250114_162723_bitter_ground,108_208,20,ground,bitter,208,guesser,L,1,19.23,20.23,Bitter?,en
+108_208_20_1_20250114_162723_bitter_ground,108_208,20,ground,bitter,108,clue_giver,R,0,1.1,5.1,So people might describe lemon as being...,en
+108_208_20_1_20250114_162723_bitter_ground,108_208,20,ground,bitter,108,clue_giver,R,1,6.1,8.1,"Yeah, something that's like...",en
+108_208_20_1_20250114_162723_bitter_ground,108_208,20,ground,bitter,108,clue_giver,R,2,9.1,11.1,"Yeah, what is that? What is that like?",en
+108_208_20_1_20250114_162723_bitter_ground,108_208,20,ground,bitter,108,clue_giver,R,3,12.1,14.1,"Yeah, another word for that?",en
+108_208_20_1_20250114_162723_bitter_ground,108_208,20,ground,bitter,108,clue_giver,R,4,16.1,19.1,It rhymes with litter.,en
+108_208_20_1_20250114_162723_bitter_ground,108_208,20,ground,bitter,108,clue_giver,R,5,20.1,21.1,Yeah.,en
+108_208_21_1_20250114_162731_sugar_ground,108_208,21,ground,sugar,108,clue_giver,R,0,0.85,5.29,"Okay, so you add this to tea so it's like after yeah",en
+108_208_23_1_20250114_162817_tiger_ground,108_208,23,ground,tiger,208,clue_giver,L,0,4.43,7.43,It's the main character in...,en
+108_208_23_1_20250114_162817_tiger_ground,108_208,23,ground,tiger,208,clue_giver,L,1,8.43,11.43,"You know Mowgli, that film.",en
+108_208_23_1_20250114_162817_tiger_ground,108_208,23,ground,tiger,208,clue_giver,L,2,13.43,15.43,"Yeah, main character in that.",en
+108_208_23_1_20250114_162817_tiger_ground,108_208,23,ground,tiger,108,guesser,R,0,12.72,13.72,Jungle Book?,en
+108_208_23_1_20250114_162817_tiger_ground,108_208,23,ground,tiger,108,guesser,R,1,17.72,18.72,What is it?,en
+108_208_23_1_20250114_162817_tiger_ground,108_208,23,ground,tiger,108,guesser,R,2,18.72,20.72,"A Lion, a Tiger.",en
+108_208_24_1_20250114_162831_exam_ground,108_208,24,ground,exam,208,clue_giver,L,0,0.75,4.75,"You do them at school, university.",en
+108_208_24_1_20250114_162831_exam_ground,108_208,24,ground,exam,208,clue_giver,L,1,6.75,8.75,Usually at the end of the year.,en
+108_208_24_1_20250114_162831_exam_ground,108_208,24,ground,exam,108,guesser,R,0,5.39,7.55,"Study, lectures?",en
+108_208_24_1_20250114_162831_exam_ground,108_208,24,ground,exam,108,guesser,R,1,10.11,11.07,"Oh, an exam.",en
+108_208_25_1_20250114_162844_puppy_ground,108_208,25,ground,puppy,208,clue_giver,L,0,2.58,9.98,They're very very cute and um little puppy.,en
+108_208_25_1_20250114_162844_puppy_ground,108_208,25,ground,puppy,108,guesser,R,0,8.37,10.37,Poppy?,en
+108_208_26_1_20250114_162904_hamster_ground,108_208,26,ground,hamster,208,clue_giver,L,0,1.3,5.8,on a similar trail of thought that these ones are in a cage,en
+108_208_26_1_20250114_162904_hamster_ground,108_208,26,ground,hamster,108,guesser,R,0,6.52,8.52,A cub.,en
+108_208_26_1_20250114_162904_hamster_ground,108_208,26,ground,hamster,108,guesser,R,1,12.52,14.52,A rat or a mouse?,en
+108_208_26_1_20250114_162904_hamster_ground,108_208,26,ground,hamster,108,guesser,R,2,16.52,18.52,A hamster.,en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,208,clue_giver,L,0,3.82,5.82,I like it fried in a sani.,en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,208,clue_giver,L,1,7.82,11.82,"Like it fried, like in a sani, in a baguette.",en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,208,clue_giver,L,2,17.82,22.82,"Oh gosh, a lot of people have it on a full English.",en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,208,clue_giver,L,3,23.82,27.82,"No, it's meat.",en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,108,guesser,R,0,4.72,6.72,It's in asasani,en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,108,guesser,R,1,6.72,8.72,Wait you what? You like it?,en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,108,guesser,R,2,8.72,10.72,"Like it fried, like in asani",en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,108,guesser,R,3,10.72,12.72,What do we get?,en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,108,guesser,R,4,12.72,14.72,Is it like,en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,108,guesser,R,5,14.72,16.72,Halumi?,en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,108,guesser,R,6,21.7,23.7,Oh hash browns,en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,108,guesser,R,7,25.7,27.7,A sausage,en
+108_208_27_1_20250114_162936_bacon_ground,108_208,27,ground,bacon,108,guesser,R,8,27.7,29.7,"Sausage, bacon",en
+108_208_28_1_20250114_162956_river_ground,108_208,28,ground,river,208,clue_giver,L,0,2.61,11.31,"Okay, you learn about them in geography.",en
+108_208_28_1_20250114_162956_river_ground,108_208,28,ground,river,208,clue_giver,L,1,12.31,13.31,"No, think.",en
+108_208_28_1_20250114_162956_river_ground,108_208,28,ground,river,108,guesser,R,0,3.25,18.08,"Okay, you learn about the mongeographic mountains, glaciers, rivers, river.",en
+108_208_29_1_20250114_163011_walnut_ground,108_208,29,ground,walnut,208,clue_giver,L,0,1.62,5.57,"Um, it's a type of knot.",en
+108_208_29_1_20250114_163011_walnut_ground,108_208,29,ground,walnut,108,guesser,R,0,6.64,14.64,macadamia pistachio almond walnut,en
+108_208_30_1_20250114_163024_butter_ground,108_208,30,ground,butter,208,clue_giver,L,0,4.69,6.69,You might put it on toast.,en
+108_208_30_1_20250114_163024_butter_ground,108_208,30,ground,butter,208,clue_giver,L,1,7.69,8.69,"No, before that.",en
+108_208_30_1_20250114_163024_butter_ground,108_208,30,ground,butter,108,guesser,R,0,6.77,7.85,"Mum, lead.",en
+108_208_30_1_20250114_163024_butter_ground,108_208,30,ground,butter,108,guesser,R,1,9.25,10.09,Butter.,en
+108_208_31_1_20250114_163033_leather_ground,108_208,31,ground,leather,208,clue_giver,L,0,2.03,6.03,People like jackets made out of this.,en
+108_208_31_1_20250114_163033_leather_ground,108_208,31,ground,leather,108,guesser,R,0,5.76,7.76,Leather?,en
+108_208_32_1_20250114_163057_chlorine_ground,108_208,32,ground,chlorine,208,clue_giver,L,0,3.7,10.7,"This is something you learn about in science. It's um, it helps with hygiene.",en
+108_208_34_1_20250114_163148_movie_board,108_208,34,board,movie,108,clue_giver,R,0,0.85,9.97,"Okay, so you know like Cineworld or yeah, what do you what do you watch there? Yeah",en
+108_208_35_1_20250114_163156_pasta_board,108_208,35,board,pasta,108,clue_giver,R,0,0.91,5.91,"So like lasagna, spaghetti, what are they? Yeah.",en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,0,0.82,5.82,So this is like a hot...,en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,1,5.82,10.82,So it like goes in the sky and it's...,en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,2,10.82,17.82,"No, it's like people like in Turkey, there's loads of like hot something, something.",en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,3,17.82,26.82,"Like in a birthday, like there's going to be loads of, no, loads of like as decoration, you put it around.",en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,4,26.82,33.82,And they can... they can like float.,en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,5,33.82,40.6,They float and they're like...,en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,6,40.6,43.6,It's got like a little string.,en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,7,43.6,46.6,"Yeah, but what's the last word?",en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,8,46.6,48.6,Just the last word of that.,en
+108_208_36_1_20250114_163248_balloon_board,108_208,36,board,balloon,108,clue_giver,R,9,48.6,51.6,Yeah.,en
+108_208_37_1_20250114_163259_muscle_board,108_208,37,board,muscle,208,guesser,L,0,5.6,6.6,Flexing.,en
+108_208_37_1_20250114_163259_muscle_board,108_208,37,board,muscle,208,guesser,L,1,6.6,7.6,Arm.,en
+108_208_37_1_20250114_163259_muscle_board,108_208,37,board,muscle,208,guesser,L,2,8.6,9.6,Bicep.,en
+108_208_37_1_20250114_163259_muscle_board,108_208,37,board,muscle,208,guesser,L,3,9.6,10.6,Yeah.,en
+108_208_37_1_20250114_163259_muscle_board,108_208,37,board,muscle,208,guesser,L,4,10.6,11.6,Yeah.,en
+108_208_37_1_20250114_163259_muscle_board,108_208,37,board,muscle,208,guesser,L,5,11.6,12.6,Yeah.,en
+108_208_37_1_20250114_163259_muscle_board,108_208,37,board,muscle,208,guesser,L,6,12.6,13.6,Yeah.,en
+108_208_37_1_20250114_163259_muscle_board,108_208,37,board,muscle,108,clue_giver,R,0,1.52,8.52,I'm like this. If I'm working out what am I doing? I'm working out my muscle.,en
+108_208_38_1_20250114_163310_birthday_board,108_208,38,board,birthday,108,clue_giver,R,0,0.66,4.66,So I mentioned this word before when I was talking about the balloons.,en
+108_208_38_1_20250114_163310_birthday_board,108_208,38,board,birthday,108,clue_giver,R,1,4.66,9.66,When it's like your 15th or like your 80th. Yeah.,en
+108_208_39_1_20250114_163319_beauty_board,108_208,39,board,beauty,108,clue_giver,R,0,0.85,5.85,"People say like, oh, I need my something sleep.",en
+108_208_39_1_20250114_163319_beauty_board,108_208,39,board,beauty,108,clue_giver,R,1,5.85,7.09,"Like, yeah.",en
+108_208_40_1_20250114_163328_christmas_board,108_208,40,board,christmas,108,clue_giver,R,0,0.72,5.72,"So this is like during December, the main event in December.",en
+108_208_40_1_20250114_163328_christmas_board,108_208,40,board,christmas,108,clue_giver,R,1,5.72,6.72,Yeah.,en
+108_208_41_1_20250114_163344_trumpet_board,108_208,41,board,trumpet,108,clue_giver,R,0,0.0,0.84,Sorry.,en
+108_208_41_1_20250114_163344_trumpet_board,108_208,41,board,trumpet,108,clue_giver,R,1,3.48,8.48,"So like this is something that you, like you blow, yeah.",en
+108_208_42_1_20250114_163352_music_board,108_208,42,board,music,208,guesser,L,0,5.02,5.52,Music.,en
+108_208_42_1_20250114_163352_music_board,108_208,42,board,music,108,clue_giver,R,0,1.01,5.61,So it's something that you listen to like in the car. Yeah,en
+108_208_43_1_20250114_163408_hunger_board,108_208,43,board,hunger,208,guesser,L,0,4.76,5.26,Hungry,en
+108_208_43_1_20250114_163408_hunger_board,108_208,43,board,hunger,208,guesser,L,1,8.26,9.26,"Ah, starving",en
+108_208_43_1_20250114_163408_hunger_board,108_208,43,board,hunger,108,clue_giver,R,0,1.17,5.17,"Instead of feeling thirsty, what's something similar about it?",en
+108_208_43_1_20250114_163408_hunger_board,108_208,43,board,hunger,108,clue_giver,R,1,5.17,7.17,But what's the word?,en
+108_208_43_1_20250114_163408_hunger_board,108_208,43,board,hunger,108,clue_giver,R,2,9.17,13.17,"No, it's what you said, but it's just the beginning bit of it, not the why bit.",en
+108_208_43_1_20250114_163408_hunger_board,108_208,43,board,hunger,108,clue_giver,R,3,13.17,15.17,"Yeah, yeah, hunger.",en
+108_208_45_1_20250114_163506_sushi_board,108_208,45,board,sushi,208,clue_giver,L,0,2.19,7.79,"Oh, it's expensive and you it's something bar",en
+108_208_45_1_20250114_163506_sushi_board,108_208,45,board,sushi,108,guesser,R,0,3.18,20.86,expensive and a ring gold gold bar diamond sushi,en
+108_208_46_1_20250114_163523_jungle_board,108_208,46,board,jungle,208,clue_giver,L,0,8.24,14.2,"On the right track. Oh, you know, um, we were talking before about Mowgli",en
+108_208_46_1_20250114_163523_jungle_board,108_208,46,board,jungle,108,guesser,R,0,5.84,6.84,Forest?,en
+108_208_46_1_20250114_163523_jungle_board,108_208,46,board,jungle,108,guesser,R,1,6.84,8.84,Forest woodlands.,en
+108_208_46_1_20250114_163523_jungle_board,108_208,46,board,jungle,108,guesser,R,2,8.84,10.84,On the right track?,en
+108_208_46_1_20250114_163523_jungle_board,108_208,46,board,jungle,108,guesser,R,3,14.34,15.34,"Yeah, jungle.",en
+108_208_47_1_20250114_163536_yellow_board,108_208,47,board,yellow,208,clue_giver,L,0,2.67,9.46,It's a very bright shade.,en
+108_208_47_1_20250114_163536_yellow_board,108_208,47,board,yellow,108,guesser,R,0,8.6,10.6,"Yellow, white.",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,208,clue_giver,L,0,1.65,3.65,Something you'd use to wash yourself,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,208,clue_giver,L,1,5.27,7.65,What would you use what would you put the soap on?,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,208,clue_giver,L,2,19.86,21.86,No,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,208,clue_giver,L,3,25.43,27.43,You could you have a face,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,208,clue_giver,L,4,30.35,32.95,"No, if you're washing your face you can have a face",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,208,clue_giver,L,5,34.55,36.55,And a separate one for the shower,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,208,clue_giver,L,6,37.83,40.15,"No, I think small towel small",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,208,clue_giver,L,7,42.31,44.31,"Yeah, but what's the name",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,0,4.16,5.16,soap,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,1,7.16,9.16,What would you put the soap on?,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,2,9.16,11.16,Like a loofah,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,3,11.16,13.16,Sponge?,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,4,13.16,18.26,Sponge?,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,5,18.26,20.26,"Oh, like a bar of soap?",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,6,20.26,21.26,No,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,7,21.26,29.41,Like a cloth?,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,8,29.41,30.41,Face mask?,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,9,31.41,37.47,Face...,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,10,37.47,38.47,"towel, towel, towel",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,11,40.47,41.47,Small...,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,12,41.47,44.91,A cloth?,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,13,44.91,46.91,"Oh my god, I don't know",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,14,46.91,48.91,"Oh, what is it?",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,15,48.91,50.91,Do movies use like a rhyming word?,en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,16,50.91,52.91,"No, it's a dannel",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,17,52.91,54.91,"Flannel, flannel",en
+108_208_48_1_20250114_163634_flannel_board,108_208,48,board,flannel,108,guesser,R,18,54.91,55.91,Oh my god,en
+108_208_49_1_20250114_163641_doughnut_board,108_208,49,board,doughnut,208,clue_giver,L,0,1.68,3.68,"Oh, homosimpsum loves to eat them.",en
+108_208_49_1_20250114_163641_doughnut_board,108_208,49,board,doughnut,108,guesser,R,0,2.16,4.16,Homeostints and lots to eat them.,en
+108_208_49_1_20250114_163641_doughnut_board,108_208,49,board,doughnut,108,guesser,R,1,4.16,6.16,Donuts.,en
+108_208_50_1_20250114_163655_picture_board,108_208,50,board,picture,208,clue_giver,L,0,1.3,11.3,um might hang it on the wall a poster? Nope a frame? No but that is one of the taboo. Picture.,en
+108_208_50_1_20250114_163655_picture_board,108_208,50,board,picture,108,guesser,R,0,4.64,6.64,A frame?,en
+108_208_50_1_20250114_163655_picture_board,108_208,50,board,picture,108,guesser,R,1,6.64,8.64,"No, but that is one of the taboo.",en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,0,3.02,4.02,Mmm...,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,1,5.02,8.02,It's obnoxiously healthy.,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,2,8.02,13.02,Like you probably wouldn't choose to eat it unless you were trying to be obnoxiously healthy.,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,3,13.02,16.46,No thing...,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,4,16.46,22.59,I scramble it with eggs.,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,5,26.83,28.83,Avocado's closer.,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,6,28.83,31.83,It's meant to be quite a good source of iron.,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,7,31.83,38.18,Like vitamins.,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,8,42.14,44.14,"No, no, no. Not an herb.",en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,9,45.14,52.61,No!,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,10,54.61,57.61,"If you don't cook it right, it becomes really wet and soggy.",en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,208,clue_giver,L,11,59.61,64.62,"Different, different colour to mushroom.",en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,108,guesser,R,0,23.25,31.89,mmm avocado milk no avocado is closer it's um it's meant to be quite good source of iron,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,108,guesser,R,1,32.69,37.89,oh um you scramble it with eggs,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,108,guesser,R,2,40.69,43.65,chives no no no not an ab,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,108,guesser,R,3,51.28,58.34,peppers no i cook it right becomes really wet and soggy,en
+108_208_51_1_20250114_163806_spinach_board,108_208,51,board,spinach,108,guesser,R,4,58.34,60.02,mushrooms no,en
+108_208_52_1_20250114_163842_blanket_board,108_208,52,board,blanket,208,clue_giver,L,0,2.0,8.0,This is something very cozy similar to a fro.,en
+108_208_53_1_20250114_163852_pillow_board,108_208,53,board,pillow,208,clue_giver,L,0,0.78,6.63,What do you do that on?,en
+108_208_53_1_20250114_163852_pillow_board,108_208,53,board,pillow,108,guesser,R,0,3.76,4.76,Sleep.,en
+108_208_54_1_20250114_163903_soda_board,108_208,54,board,soda,208,clue_giver,L,0,1.1,7.1,"Oh, this is kind of an Americanism for something fizzy.",en
+108_208_54_1_20250114_163903_soda_board,108_208,54,board,soda,108,guesser,R,0,7.42,9.42,Soda?,en
+116_216_12_1_20250116_102514_butter_board,116_216,12,board,butter,116,clue_giver,R,0,3.47,5.47,Thing you put on your toast in the morning.,en
+116_216_13_1_20250116_102527_traffic_board,116_216,13,board,traffic,216,guesser,L,0,8.32,9.32,Traffic light.,en
+116_216_13_1_20250116_102527_traffic_board,116_216,13,board,traffic,216,guesser,L,1,9.32,11.32,Traffic!,en
+116_216_13_1_20250116_102527_traffic_board,116_216,13,board,traffic,116,clue_giver,R,0,4.37,9.37,"Light controls this. It's red, orange and yellow.",en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,216,guesser,L,0,0.66,2.66,What was the quote?,en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,216,guesser,L,1,2.66,3.66,That does it.,en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,216,guesser,L,2,9.32,11.32,Canvas?,en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,216,guesser,L,3,16.32,17.32,A painting?,en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,216,guesser,L,4,17.32,18.32,"No, wait.",en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,216,guesser,L,5,22.32,23.32,Art?,en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,216,guesser,L,6,26.32,27.32,Picture.,en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,116,clue_giver,R,0,3.54,4.54,Okay.,en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,116,clue_giver,R,1,4.54,10.06,"You can paint one of these, but you don't have to to create it.",en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,116,clue_giver,R,2,11.06,14.68,It is the object that is created.,en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,116,clue_giver,R,3,14.68,16.86,You can hang it on your wall.,en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,116,clue_giver,R,4,16.86,21.3,"Once you've painted it, you can hang it on your wall, but you don't have to use",en
+116_216_14_1_20250116_102556_picture_board,116_216,14,board,picture,116,clue_giver,R,5,27.54,28.7,Yes.,en
+116_216_15_1_20250116_102602_siren_board,116_216,15,board,siren,216,guesser,L,0,2.67,4.67,"Sorry, bro!",en
+116_216_15_1_20250116_102602_siren_board,116_216,15,board,siren,116,clue_giver,R,0,0.75,2.75,"Uh, wee!",en
+116_216_16_1_20250116_102611_pasta_board,116_216,16,board,pasta,216,guesser,L,0,5.94,6.94,Pasta.,en
+116_216_16_1_20250116_102611_pasta_board,116_216,16,board,pasta,116,clue_giver,R,0,0.37,7.32,"Spaghetti, rigatoni, congigli.",en
+116_216_17_1_20250116_102622_yellow_board,116_216,17,board,yellow,216,guesser,L,0,8.03,8.87,Yellow.,en
+116_216_17_1_20250116_102622_yellow_board,116_216,17,board,yellow,216,guesser,L,1,9.63,10.39,"Oh, that was a gas.",en
+116_216_17_1_20250116_102622_yellow_board,116_216,17,board,yellow,116,clue_giver,R,0,1.42,8.28,One of the traffic lights is this colour?,en
+116_216_18_1_20250116_102638_hunger_board,116_216,18,board,hunger,216,guesser,L,0,12.96,14.96,hunger,en
+116_216_18_1_20250116_102638_hunger_board,116_216,18,board,hunger,116,clue_giver,R,0,3.95,8.95,"Grr, grrr, nom nom nom.",en
+116_216_18_1_20250116_102638_hunger_board,116_216,18,board,hunger,116,clue_giver,R,1,8.95,13.95,The emotion associated with...,en
+116_216_19_1_20250116_102654_leather_board,116_216,19,board,leather,216,guesser,L,0,12.16,14.16,Leather?,en
+116_216_19_1_20250116_102654_leather_board,116_216,19,board,leather,116,clue_giver,R,0,1.42,5.92,"Um, these...",en
+116_216_19_1_20250116_102654_leather_board,116_216,19,board,leather,116,clue_giver,R,1,5.92,6.92,Shoes.,en
+116_216_19_1_20250116_102654_leather_board,116_216,19,board,leather,116,clue_giver,R,2,6.92,7.92,No.,en
+116_216_19_1_20250116_102654_leather_board,116_216,19,board,leather,116,clue_giver,R,3,7.92,11.92,"But they... these can be made of it, but not these one specifically.",en
+116_216_20_1_20250116_102710_pillow_board,116_216,20,board,pillow,216,guesser,L,0,2.38,4.38,Sleep snoring,en
+116_216_20_1_20250116_102710_pillow_board,116_216,20,board,pillow,216,guesser,L,1,12.46,14.46,The pillow,en
+116_216_20_1_20250116_102710_pillow_board,116_216,20,board,pillow,116,clue_giver,R,0,1.04,6.72,But on this thing it's on a bet it's on it's on,en
+116_216_20_1_20250116_102710_pillow_board,116_216,20,board,pillow,116,clue_giver,R,1,7.6,12.74,"It's with your do it's included in a duvet set, but it's not the duvet",en
+116_216_21_1_20250116_102716_muscle_board,116_216,21,board,muscle,216,guesser,L,0,1.74,3.74,muscle,en
+116_216_21_1_20250116_102716_muscle_board,116_216,21,board,muscle,116,clue_giver,R,0,0.62,1.52,Uh.,en
+116_216_21_1_20250116_102716_muscle_board,116_216,21,board,muscle,116,clue_giver,R,1,1.52,2.52,Choo-poo-choo.,en
+116_216_23_1_20250116_102753_doughnut_ground,116_216,23,ground,doughnut,216,clue_giver,L,0,0.59,5.59,"Uh, oh, like something sweet, you deep fry it.",en
+116_216_23_1_20250116_102753_doughnut_ground,116_216,23,ground,doughnut,216,clue_giver,L,1,8.75,10.09,"Oh, yeah.",en
+116_216_24_1_20250116_102808_bacon_ground,116_216,24,ground,bacon,216,clue_giver,L,0,0.82,7.51,"Oh, made of an animal that goes oink.",en
+116_216_24_1_20250116_102808_bacon_ground,116_216,24,ground,bacon,216,clue_giver,L,1,7.51,8.51,Oink?,en
+116_216_24_1_20250116_102808_bacon_ground,116_216,24,ground,bacon,216,clue_giver,L,2,8.51,11.51,It's salty and very thin.,en
+116_216_24_1_20250116_102808_bacon_ground,116_216,24,ground,bacon,216,clue_giver,L,3,11.51,12.51,Very thin?,en
+116_216_24_1_20250116_102808_bacon_ground,116_216,24,ground,bacon,216,clue_giver,L,4,12.51,13.51,Yeah.,en
+116_216_24_1_20250116_102808_bacon_ground,116_216,24,ground,bacon,116,guesser,R,0,7.02,8.02,Pork.,en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,216,clue_giver,L,0,0.66,1.66,Oh.,en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,216,clue_giver,L,1,3.0,4.0,Like...,en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,216,clue_giver,L,2,4.96,7.44,A wolf but domesticated.,en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,216,clue_giver,L,3,7.84,9.48,But little.,en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,216,clue_giver,L,4,11.1,13.16,"No, like, not old.",en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,216,clue_giver,L,5,15.59,18.03,A not old wolf-like creature.,en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,216,clue_giver,L,6,21.29,22.29,Yeah.,en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,116,guesser,R,0,7.08,8.14,Dog.,en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,116,guesser,R,1,9.7,10.7,Chihuahua.,en
+116_216_25_1_20250116_102832_puppy_ground,116_216,25,ground,puppy,116,guesser,R,2,19.86,21.34,"Uh, puppy?",en
+116_216_26_1_20250116_102855_sugar_ground,116_216,26,ground,sugar,216,clue_giver,L,0,1.14,11.27,"Oh, it's grainy. People often use it in desserts.",en
+116_216_26_1_20250116_102855_sugar_ground,116_216,26,ground,sugar,216,clue_giver,L,1,11.27,20.09,"No, it's what makes something not savoury.",en
+116_216_26_1_20250116_102855_sugar_ground,116_216,26,ground,sugar,216,clue_giver,L,2,21.09,22.09,Yeah.,en
+116_216_26_1_20250116_102855_sugar_ground,116_216,26,ground,sugar,116,guesser,R,0,20.4,21.4,Sugar? Yeah.,en
+116_216_27_1_20250116_102911_zipper_ground,116_216,27,ground,zipper,216,clue_giver,L,0,0.75,11.44,"Oh, uh, instead of buttons, what can you have on, like, garments?",en
+116_216_27_1_20250116_102911_zipper_ground,116_216,27,ground,zipper,216,clue_giver,L,1,12.44,13.44,Yeah.,en
+116_216_27_1_20250116_102911_zipper_ground,116_216,27,ground,zipper,216,clue_giver,L,2,13.44,14.44,Is it there?,en
+116_216_27_1_20250116_102911_zipper_ground,116_216,27,ground,zipper,216,clue_giver,L,3,14.44,15.44,Yes.,en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,216,clue_giver,L,0,3.31,12.31,"Oh, a spray that you use when you want to like not be stinky.",en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,216,clue_giver,L,1,13.31,19.65,"Uh, but it's more of like an aesthetic thing rather than a high, um, yeah, but the one",en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,216,clue_giver,L,2,19.65,25.54,that guys are usually associated with.,en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,216,clue_giver,L,3,25.54,35.49,"No, kind of sounds like alone.",en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,216,clue_giver,L,4,36.49,37.49,Yeah.,en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,216,clue_giver,L,5,37.49,42.49,Yeah.,en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,116,guesser,R,0,0.0,2.0,I don't know why I'm doing that.,en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,116,guesser,R,1,22.0,25.0,Aftershave?,en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,116,guesser,R,2,26.0,28.0,I don't remember what it's called.,en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,116,guesser,R,3,28.0,33.65,"Um, I don't know what it's called.",en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,116,guesser,R,4,35.65,36.65,Cologne?,en
+116_216_28_1_20250116_102950_cologne_ground,116_216,28,ground,cologne,116,guesser,R,5,36.65,37.65,Yeah.,en
+116_216_29_1_20250116_103005_hamster_ground,116_216,29,ground,hamster,216,clue_giver,L,0,1.07,10.95,"Ooh, a tiny rodent often runs around on a wheel.",en
+116_216_29_1_20250116_103005_hamster_ground,116_216,29,ground,hamster,216,clue_giver,L,1,10.95,13.95,Yeah.,en
+116_216_30_1_20250116_103021_tiger_ground,116_216,30,ground,tiger,216,clue_giver,L,0,0.82,11.66,"Oh, a feline creature, but it's not a cheetah.",en
+116_216_30_1_20250116_103021_tiger_ground,116_216,30,ground,tiger,216,clue_giver,L,1,11.66,13.66,"Yeah, a tiger.",en
+116_216_30_1_20250116_103021_tiger_ground,116_216,30,ground,tiger,216,clue_giver,L,2,13.66,14.66,Yeah.,en
+116_216_31_1_20250116_103035_chlorine_ground,116_216,31,ground,chlorine,216,clue_giver,L,0,1.17,10.17,"Oh, um, when you go swimming, this substance is usually in the water.",en
+116_216_31_1_20250116_103035_chlorine_ground,116_216,31,ground,chlorine,216,clue_giver,L,1,10.17,12.17,Yeah.,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,0,0.75,4.75,"Oh, kind of, how do I do it?",en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,1,5.75,11.75,"It's like, it's like from the same category as like, Peacons and Cashews.",en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,2,12.75,15.75,But it looks like a little brain kind of.,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,3,17.75,24.75,"It's a brown, brown, brown, novely thing.",en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,4,25.75,27.75,Kind of looks like a brain.,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,5,27.75,31.75,I think you like crack it open before you have it.,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,6,35.54,40.3,Sometimes you put it in your breakfast.,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,7,41.3,51.07,"It ends with that last syllable, but it's from that category.",en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,8,52.07,54.07,"But like, I don't actually know what it looks like.",en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,9,55.07,59.07,"It's like brown, novely, kind of shape.",en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,216,clue_giver,L,10,62.07,65.07,"The words got, I think it has a better minute.",en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,116,guesser,R,0,16.43,17.07,Peanuts?,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,116,guesser,R,1,32.91,33.79,Acorn?,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,116,guesser,R,2,42.05,43.09,Coconut?,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,116,guesser,R,3,44.21,45.17,That's a bit big.,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,116,guesser,R,4,56.69,58.05,I don't know enough...,en
+116_216_32_1_20250116_103144_walnut_ground,116_216,32,ground,walnut,116,guesser,R,5,61.97,62.47,Um...,en
+116_216_34_1_20250116_103225_flower_ground,116_216,34,ground,flower,216,guesser,L,0,6.58,8.58,Flowers.,en
+116_216_34_1_20250116_103225_flower_ground,116_216,34,ground,flower,116,clue_giver,R,0,2.51,8.11,with the sun. Very nice. Tends to be colourful.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,0,14.82,15.82,Shirt.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,1,17.82,18.82,"Oh, jacket.",en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,2,18.82,19.82,Hoodie.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,3,19.82,20.82,Jumper.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,4,26.82,27.82,A pattern?,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,5,31.82,34.82,So I wear it over. Is it like a jacket?,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,6,41.82,42.82,"Oh, leather.",en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,7,42.82,43.82,A denim.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,8,44.82,46.82,Cotton.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,9,50.82,53.82,I'm really sorry.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,10,53.82,54.82,A polyester.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,11,54.82,55.82,I don't know.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,12,55.82,56.82,It doesn't narrow down.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,13,60.51,61.51,It's not a polyester.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,14,62.51,63.51,Nylon.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,216,guesser,L,15,63.51,64.51,Wool.,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,116,clue_giver,R,0,1.01,16.14,It's a type of clotheswear sort of. It tends to be on the upper half. It can be one as,en
+116_216_35_1_20250116_103333_flannel_ground,116_216,35,ground,flannel,116,clue_giver,R,1,16.14,27.0,like an over thing. It tends to have a very specific pattern. I'm not sure how to describe,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,216,guesser,L,0,3.38,5.38,Have you ever played Minecraft?,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,216,guesser,L,1,5.38,6.38,I know about it.,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,216,guesser,L,2,8.38,9.38,"Oh, okay, then I have no clue.",en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,216,guesser,L,3,9.38,10.38,Rainforest!,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,216,guesser,L,4,12.38,14.38,"Tropical, tropics.",en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,216,guesser,L,5,15.38,16.38,Okay.,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,216,guesser,L,6,24.98,25.98,Jungle.,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,116,clue_giver,R,0,2.96,4.96,Have you ever played Minecraft?,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,116,clue_giver,R,1,5.96,7.96,Place where you find parrots in Minecraft.,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,116,clue_giver,R,2,10.96,11.96,Not quite.,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,116,clue_giver,R,3,13.96,14.96,Big trees.,en
+116_216_36_1_20250116_103426_jungle_ground,116_216,36,ground,jungle,116,clue_giver,R,4,19.4,24.4,"There's a movie about it that has this word in the title and it says the, this book.",en
+116_216_37_1_20250116_103447_beauty_ground,116_216,37,ground,beauty,216,guesser,L,0,10.89,12.89,Beauty and the Beast.,en
+116_216_37_1_20250116_103447_beauty_ground,116_216,37,ground,beauty,216,guesser,L,1,16.89,19.89,Beast? Beauty.,en
+116_216_37_1_20250116_103447_beauty_ground,116_216,37,ground,beauty,116,clue_giver,R,0,1.14,10.79,There's also a movie about this. It's a Disney movie associated with like a yellow dress,en
+116_216_37_1_20250116_103447_beauty_ground,116_216,37,ground,beauty,116,clue_giver,R,1,13.95,15.95,But like just one of those words,en
+116_216_38_1_20250116_103502_coffee_ground,116_216,38,ground,coffee,216,guesser,L,0,4.56,6.56,Spaghetti.,en
+116_216_38_1_20250116_103502_coffee_ground,116_216,38,ground,coffee,216,guesser,L,1,11.56,13.56,Her coffee.,en
+116_216_38_1_20250116_103502_coffee_ground,116_216,38,ground,coffee,116,clue_giver,R,0,0.91,6.57,But like hot.,en
+116_216_38_1_20250116_103502_coffee_ground,116_216,38,ground,coffee,116,clue_giver,R,1,8.57,10.57,In a mug.,en
+116_216_38_1_20250116_103502_coffee_ground,116_216,38,ground,coffee,116,clue_giver,R,2,12.57,14.57,Coffee.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,0,8.82,9.66,Age.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,1,11.58,12.42,Almost as part of it.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,2,12.42,14.3,Aging.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,3,14.3,15.38,Wisdom.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,4,15.38,19.26,"It is a specific cure person,",en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,5,22.18,23.46,Puberty.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,6,23.46,24.3,No.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,7,24.3,25.62,We're jarring.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,8,30.26,31.66,Birth.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,216,guesser,L,9,34.42,35.9,birthday.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,116,clue_giver,R,0,0.88,3.88,"Uh, woo!",en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,116,clue_giver,R,1,3.88,8.88,Growing up is associated with this thing.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,116,clue_giver,R,2,13.88,14.88,Wisdom.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,116,clue_giver,R,3,24.88,29.88,It's associated with when a person first entered this world.,en
+116_216_39_1_20250116_103539_birthday_ground,116_216,39,ground,birthday,116,clue_giver,R,4,30.88,34.88,And the specific related to that that occurs every single year.,en
+116_216_40_1_20250116_103547_music_ground,116_216,40,ground,music,216,guesser,L,0,3.28,5.28,Music.,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,216,guesser,L,0,10.36,13.36,Coke?,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,216,guesser,L,1,13.36,17.36,It's less specific than that.,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,216,guesser,L,2,17.36,19.36,Lemonade? Cola?,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,216,guesser,L,3,21.36,23.36,Carbonated drinks.,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,216,guesser,L,4,29.36,31.36,Coke.,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,216,guesser,L,5,31.36,35.12,Fizzy drinks.,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,216,guesser,L,6,35.12,37.12,It is fizzy.,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,216,guesser,L,7,43.12,45.12,"actually, that number.",en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,116,clue_giver,R,0,1.07,10.57,You drink it and it's like jub jub jub jub jub because it's like a thing.,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,116,clue_giver,R,1,13.57,14.57,Coke?,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,116,clue_giver,R,2,19.57,21.57,It's like not...what are those?,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,116,clue_giver,R,3,37.39,43.39,Americans will also use this to just refer to like...actually I don't know what Americans...,en
+116_216_41_1_20250116_103635_soda_ground,116_216,41,ground,soda,116,clue_giver,R,4,44.39,45.39,Yeah.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,0,7.94,8.94,Experiment.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,1,15.94,16.94,Methods retrospective.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,2,25.94,26.94,We have to get 40 percent in these things.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,3,26.94,27.94,40 percent exams.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,4,28.68,29.68,And.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,5,29.68,30.68,The.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,6,30.68,31.68,3.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,7,31.68,32.68,0.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,8,32.68,33.68,3.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,9,33.68,34.68,0.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,10,34.68,35.68,3.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,11,35.68,36.68,0.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,12,36.68,37.68,4.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,13,37.68,38.68,3.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,14,38.68,39.68,0.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,15,39.68,40.68,3.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,16,40.68,41.68,0.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,17,41.68,42.68,3.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,18,42.68,43.68,1.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,19,43.68,44.68,1.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,20,44.68,45.68,2.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,21,45.68,46.68,2.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,22,46.68,47.68,1.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,23,47.68,48.68,2.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,24,48.68,49.68,3.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,25,49.68,50.68,1.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,26,50.68,51.68,2.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,27,51.68,52.68,1.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,28,52.68,53.68,3.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,29,53.68,54.68,2.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,30,54.68,55.68,1.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,31,55.68,56.68,2.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,216,guesser,L,32,56.68,57.68,1.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,116,clue_giver,R,0,0.94,13.62,What we have to do in term three that is related to our studies and it comes at the end of,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,116,clue_giver,R,1,13.62,20.98,our studies and it demonstrates at the end of our studies whether or not we move on to,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,116,clue_giver,R,2,20.98,21.98,the next year.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,116,clue_giver,R,3,21.98,24.5,We have to get 40% in these things.,en
+116_216_42_1_20250116_103705_exam_ground,116_216,42,ground,exam,116,clue_giver,R,4,24.5,27.5,We have to get 40% in these things.,en
+116_216_43_1_20250116_103720_bitter_ground,116_216,43,ground,bitter,216,guesser,L,0,5.49,9.49,"Oh, body parts or like a utensil?",en
+116_216_43_1_20250116_103720_bitter_ground,116_216,43,ground,bitter,216,guesser,L,1,11.49,12.49,Bitter.,en
+116_216_45_1_20250116_103813_gravy_board,116_216,45,board,gravy,216,clue_giver,L,0,1.07,2.07,Ooh.,en
+116_216_45_1_20250116_103813_gravy_board,116_216,45,board,gravy,216,clue_giver,L,1,2.07,7.07,"Uh, I am, you might have this with your sausages.",en
+116_216_45_1_20250116_103813_gravy_board,116_216,45,board,gravy,216,clue_giver,L,2,8.07,11.07,"Uh, no, like a condiment with your sausages.",en
+116_216_45_1_20250116_103813_gravy_board,116_216,45,board,gravy,216,clue_giver,L,3,12.07,19.41,"Uh, no, it's like runnier than that.",en
+116_216_45_1_20250116_103813_gravy_board,116_216,45,board,gravy,216,clue_giver,L,4,19.41,22.85,Sometimes made of granules?,en
+116_216_45_1_20250116_103813_gravy_board,116_216,45,board,gravy,216,clue_giver,L,5,22.85,23.85,Really?,en
+116_216_45_1_20250116_103813_gravy_board,116_216,45,board,gravy,216,clue_giver,L,6,23.85,24.85,Yeah.,en
+116_216_46_1_20250116_103828_cherry_board,116_216,46,board,cherry,216,clue_giver,L,0,0.66,2.66,Ooh.,en
+116_216_46_1_20250116_103828_cherry_board,116_216,46,board,cherry,216,clue_giver,L,1,2.66,9.66,"Often used as a topping on desserts, it's got like a big seed in the middle.",en
+116_216_46_1_20250116_103828_cherry_board,116_216,46,board,cherry,216,clue_giver,L,2,9.66,12.66,"Sometimes they often come in like pears, little bunches.",en
+116_216_46_1_20250116_103828_cherry_board,116_216,46,board,cherry,216,clue_giver,L,3,13.66,14.66,Yeah.,en
+116_216_47_1_20250116_103841_sushi_board,116_216,47,board,sushi,216,clue_giver,L,0,1.07,8.79,Japanese dish usually wrapped in seaweed,en
+116_216_48_1_20250116_103854_river_board,116_216,48,board,river,216,clue_giver,L,0,0.82,12.79,like the ocean but narrow and it's yeah,en
+116_216_49_1_20250116_103913_blanket_board,116_216,49,board,blanket,216,clue_giver,L,0,1.14,8.14,"When I'm tired, I... okay, I've got a...",en
+116_216_49_1_20250116_103913_blanket_board,116_216,49,board,blanket,216,clue_giver,L,1,8.14,15.14,"Yeah, but in the place I do that, I have a pillow and a...",en
+116_216_49_1_20250116_103913_blanket_board,116_216,49,board,blanket,216,clue_giver,L,2,15.14,18.14,Yeah.,en
+116_216_49_1_20250116_103913_blanket_board,116_216,49,board,blanket,116,guesser,R,0,15.06,16.06,Duvet.,en
+116_216_50_1_20250116_103951_spinach_board,116_216,50,board,spinach,216,clue_giver,L,0,1.07,21.45,Ah. It's like... it's bushy. It's a plant that you can consume. It's not a fruit.,en
+116_216_50_1_20250116_103951_spinach_board,116_216,50,board,spinach,216,clue_giver,L,1,21.45,34.38,Usually associated with making you strong.,en
+116_216_50_1_20250116_103951_spinach_board,116_216,50,board,spinach,216,clue_giver,L,2,34.38,36.38,Yeah.,en
+116_216_50_1_20250116_103951_spinach_board,116_216,50,board,spinach,116,guesser,R,0,14.72,16.72,STRAWBERRY,en
+116_216_51_1_20250116_104027_movie_board,116_216,51,board,movie,216,clue_giver,L,0,1.07,4.86,Okay.,en
+116_216_51_1_20250116_104027_movie_board,116_216,51,board,movie,216,clue_giver,L,1,6.06,8.94,"There are like, you know, have you heard of",en
+116_216_51_1_20250116_104027_movie_board,116_216,51,board,movie,216,clue_giver,L,2,9.34,13.81,Vue? Vue. What does it do there?,en
+116_216_51_1_20250116_104027_movie_board,116_216,51,board,movie,216,clue_giver,L,3,20.76,22.76,It like,en
+116_216_51_1_20250116_104027_movie_board,116_216,51,board,movie,216,clue_giver,L,4,23.12,25.12,Instead of watching,en
+116_216_51_1_20250116_104027_movie_board,116_216,51,board,movie,216,clue_giver,L,5,26.32,28.32,Stuff on a TV screen at home,en
+116_216_51_1_20250116_104027_movie_board,116_216,51,board,movie,216,clue_giver,L,6,29.24,31.68,You go to this place and watch a,en
+116_216_51_1_20250116_104027_movie_board,116_216,51,board,movie,216,clue_giver,L,7,32.8,34.8,Yeah,en
+116_216_51_1_20250116_104027_movie_board,116_216,51,board,movie,116,guesser,R,0,15.12,19.52,I don't know.,en
+116_216_52_1_20250116_104050_christmas_board,116_216,52,board,christmas,216,clue_giver,L,0,0.72,6.49,"Ah, okay.",en
+116_216_52_1_20250116_104050_christmas_board,116_216,52,board,christmas,216,clue_giver,L,1,6.49,9.17,The time of year associated with St Nicholas.,en
+116_216_52_1_20250116_104050_christmas_board,116_216,52,board,christmas,216,clue_giver,L,2,13.63,17.15,"No, St Nicholas is another name for someone else.",en
+116_216_52_1_20250116_104050_christmas_board,116_216,52,board,christmas,216,clue_giver,L,3,17.15,20.59,"Yeah, and what occasion is associated with this?",en
+116_216_52_1_20250116_104050_christmas_board,116_216,52,board,christmas,216,clue_giver,L,4,20.59,21.91,"Yeah, there we go.",en
+116_216_53_1_20250116_104129_trumpet_board,116_216,53,board,trumpet,216,clue_giver,L,0,1.17,20.14,"Not a tube or a trombone, it's like smaller. Same category though. It's like golden. No,",en
+116_216_53_1_20250116_104129_trumpet_board,116_216,53,board,trumpet,216,clue_giver,L,1,20.14,29.14,"it's like when you think of what category is like tube or trombone from? No, they're",en
+116_216_53_1_20250116_104129_trumpet_board,116_216,53,board,trumpet,216,clue_giver,L,2,29.14,34.62,"not. It's like, yeah, yeah. And it's the most, it's the one most commonly associated",en
+116_216_53_1_20250116_104129_trumpet_board,116_216,53,board,trumpet,216,clue_giver,L,3,34.62,38.62,with that category. Yeah.,en
+116_216_54_1_20250116_104150_balloon_board,116_216,54,board,balloon,216,clue_giver,L,0,0.88,9.46,You can fill it with oxygen.,en
+116_216_54_1_20250116_104150_balloon_board,116_216,54,board,balloon,216,clue_giver,L,1,9.46,14.46,Usually use it for fun though.,en
+116_216_54_1_20250116_104150_balloon_board,116_216,54,board,balloon,216,clue_giver,L,2,14.46,19.46,"It's like made of rubber. You tie a string on it and yeah, there we go.",en
