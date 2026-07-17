@@ -1,0 +1,121 @@
+trial_id,pair_id,condition,target_word,clue_giver_id,guesser_id,n_clue_giver_attempts,n_turns_total,n_turntakes,guessed,guess_time,guess_text
+103_203_12_1_20250113_152455_doughnut_board,103_203,board,doughnut,103.0,203.0,1,1,0,True,14.46,Sweet bread doughnuts.
+103_203_13_1_20250113_152513_spinach_board,103_203,board,spinach,103.0,203.0,1,2,1,True,14.67,Spinach.
+103_203_14_1_20250113_152536_balloon_board,103_203,board,balloon,103.0,203.0,2,3,2,False,,
+103_203_15_1_20250113_152557_bacon_board,103_203,board,bacon,103.0,203.0,3,5,4,True,18.19,Bacon.
+103_203_16_1_20250113_152613_chlorine_board,103_203,board,chlorine,103.0,203.0,1,1,0,True,12.13,Chlorine.
+103_203_17_1_20250113_152643_leather_board,103_203,board,leather,103.0,203.0,1,1,0,True,23.41,You it gives milk. Cow. Yeah. Leather. Yeah.
+103_203_18_1_20250113_152657_pillow_board,103_203,board,pillow,103.0,203.0,1,1,0,True,7.65,Bed. Sleep. Pillow.
+103_203_19_1_20250113_152712_traffic_board,103_203,board,traffic,103.0,203.0,1,1,0,True,11.92,Traffic.
+103_203_20_1_20250113_152735_bitter_board,103_203,board,bitter,103.0,,1,1,0,False,,
+103_203_21_1_20250113_152824_tiger_board,103_203,board,tiger,103.0,203.0,2,4,3,True,44.12,Tiger.
+103_203_23_1_20250113_152946_trumpet_ground,103_203,ground,trumpet,203.0,103.0,2,4,3,False,,
+103_203_24_1_20250113_152957_pasta_ground,103_203,ground,pasta,203.0,,1,1,0,True,8.42,"Yeah, pasta."
+103_203_25_1_20250113_153028_hamster_ground,103_203,ground,hamster,203.0,103.0,2,3,2,True,27.06,Oh hamsters.
+103_203_26_1_20250113_153140_siren_ground,103_203,ground,siren,203.0,103.0,4,8,7,False,,
+103_203_27_1_20250113_153217_jungle_ground,103_203,ground,jungle,203.0,103.0,1,1,0,True,24.38,Jungle.
+103_203_28_1_20250113_153235_birthday_ground,103_203,ground,birthday,203.0,,1,1,0,False,,
+103_203_29_1_20250113_153255_cherry_ground,103_203,ground,cherry,203.0,,1,1,0,False,,
+103_203_30_1_20250113_153310_exam_ground,103_203,ground,exam,203.0,,1,1,0,False,,
+103_203_31_1_20250113_153333_flower_ground,103_203,ground,flower,203.0,,1,1,0,False,,
+103_203_32_1_20250113_153341_coffee_ground,103_203,ground,coffee,203.0,103.0,1,2,1,False,,
+103_203_34_1_20250113_153427_picture_ground,103_203,ground,picture,103.0,203.0,3,6,5,True,18.85,Picture.
+103_203_35_1_20250113_153443_yellow_ground,103_203,ground,yellow,103.0,203.0,1,1,0,True,12.73,Yellow.
+103_203_36_1_20250113_153454_flannel_ground,103_203,ground,flannel,,203.0,0,1,0,True,7.07,Flannel.
+103_203_37_1_20250113_153517_movie_ground,103_203,ground,movie,103.0,203.0,1,1,0,True,19.68,Movie.
+103_203_38_1_20250113_153528_puppy_ground,103_203,ground,puppy,103.0,203.0,1,1,0,True,7.35,"Cats, dog, puppy."
+103_203_39_1_20250113_153540_muscle_ground,103_203,ground,muscle,103.0,203.0,1,1,0,True,7.18,Bicep muscle.
+103_203_40_1_20250113_153555_beauty_ground,103_203,ground,beauty,103.0,203.0,1,1,0,True,11.18,Beauty.
+103_203_41_1_20250113_153604_sugar_ground,103_203,ground,sugar,103.0,203.0,2,3,2,True,6.93,Sugar.
+103_203_42_1_20250113_153614_sushi_ground,103_203,ground,sushi,103.0,203.0,1,1,0,True,6.3,Sushi.
+103_203_43_1_20250113_153626_gravy_ground,103_203,ground,gravy,103.0,203.0,1,1,0,True,8.0,Gravy.
+103_203_45_1_20250113_153745_walnut_board,103_203,board,walnut,203.0,103.0,3,5,4,False,,
+103_203_46_1_20250113_153759_blanket_board,103_203,board,blanket,203.0,,1,1,0,False,,
+103_203_47_1_20250113_153811_soda_board,103_203,board,soda,203.0,,1,1,0,False,,
+103_203_48_1_20250113_153828_hunger_board,103_203,board,hunger,203.0,103.0,1,2,1,False,,
+103_203_49_1_20250113_153839_christmas_board,103_203,board,christmas,203.0,,1,1,0,False,,
+103_203_50_1_20250113_153852_butter_board,103_203,board,butter,203.0,,1,1,0,False,,
+103_203_51_1_20250113_153926_cologne_board,103_203,board,cologne,203.0,103.0,2,3,2,False,,
+103_203_52_1_20250113_154037_zipper_board,103_203,board,zipper,203.0,103.0,5,10,9,False,,
+103_203_53_1_20250113_154055_river_board,103_203,board,river,203.0,103.0,1,1,0,True,5.28,"Lake, river."
+103_203_54_1_20250113_154107_music_board,103_203,board,music,203.0,103.0,1,1,0,True,8.82,Music.
+108_208_12_1_20250114_162456_flower_ground,108_208,ground,flower,108.0,208.0,2,3,2,False,,
+108_208_13_1_20250114_162512_traffic_ground,108_208,ground,traffic,108.0,208.0,1,1,0,True,8.97,Traffic light.
+108_208_14_1_20250114_162535_zipper_ground,108_208,ground,zipper,108.0,,1,1,0,False,,
+108_208_15_1_20250114_162542_gravy_ground,108_208,ground,gravy,108.0,,1,1,0,False,,
+108_208_16_1_20250114_162559_siren_ground,108_208,ground,siren,108.0,208.0,1,1,0,True,13.8,siren?
+108_208_17_1_20250114_162610_cherry_ground,108_208,ground,cherry,108.0,208.0,1,2,1,False,,
+108_208_18_1_20250114_162618_coffee_ground,108_208,ground,coffee,108.0,,1,1,0,False,,
+108_208_19_1_20250114_162700_cologne_ground,108_208,ground,cologne,108.0,208.0,3,5,4,False,,
+108_208_20_1_20250114_162723_bitter_ground,108_208,ground,bitter,108.0,208.0,2,3,2,True,19.23,Bitter?
+108_208_21_1_20250114_162731_sugar_ground,108_208,ground,sugar,108.0,,1,1,0,False,,
+108_208_23_1_20250114_162817_tiger_ground,108_208,ground,tiger,208.0,108.0,2,4,3,True,18.72,"A Lion, a Tiger."
+108_208_24_1_20250114_162831_exam_ground,108_208,ground,exam,208.0,108.0,2,3,2,True,10.11,"Oh, an exam."
+108_208_25_1_20250114_162844_puppy_ground,108_208,ground,puppy,208.0,108.0,0,0,0,True,2.58,They're very very cute and um little puppy.
+108_208_26_1_20250114_162904_hamster_ground,108_208,ground,hamster,208.0,108.0,1,2,1,True,16.52,A hamster.
+108_208_27_1_20250114_162936_bacon_ground,108_208,ground,bacon,208.0,108.0,4,8,7,True,27.7,"Sausage, bacon"
+108_208_28_1_20250114_162956_river_ground,108_208,ground,river,208.0,108.0,1,1,0,True,3.25,"Okay, you learn about the mongeographic mountains, glaciers, rivers, river."
+108_208_29_1_20250114_163011_walnut_ground,108_208,ground,walnut,208.0,108.0,1,1,0,True,6.64,macadamia pistachio almond walnut
+108_208_30_1_20250114_163024_butter_ground,108_208,ground,butter,208.0,108.0,2,3,2,True,9.25,Butter.
+108_208_31_1_20250114_163033_leather_ground,108_208,ground,leather,208.0,108.0,1,1,0,True,5.76,Leather?
+108_208_32_1_20250114_163057_chlorine_ground,108_208,ground,chlorine,208.0,,1,1,0,False,,
+108_208_34_1_20250114_163148_movie_board,108_208,board,movie,108.0,,1,1,0,False,,
+108_208_35_1_20250114_163156_pasta_board,108_208,board,pasta,108.0,,1,1,0,False,,
+108_208_36_1_20250114_163248_balloon_board,108_208,board,balloon,108.0,,1,1,0,False,,
+108_208_37_1_20250114_163259_muscle_board,108_208,board,muscle,108.0,208.0,0,0,0,True,1.52,I'm like this. If I'm working out what am I doing? I'm working out my muscle.
+108_208_38_1_20250114_163310_birthday_board,108_208,board,birthday,108.0,,1,1,0,False,,
+108_208_39_1_20250114_163319_beauty_board,108_208,board,beauty,108.0,,1,1,0,False,,
+108_208_40_1_20250114_163328_christmas_board,108_208,board,christmas,108.0,,1,1,0,False,,
+108_208_41_1_20250114_163344_trumpet_board,108_208,board,trumpet,108.0,,1,1,0,False,,
+108_208_42_1_20250114_163352_music_board,108_208,board,music,108.0,208.0,1,1,0,True,5.02,Music.
+108_208_43_1_20250114_163408_hunger_board,108_208,board,hunger,108.0,208.0,3,5,4,True,13.17,"Yeah, yeah, hunger."
+108_208_45_1_20250114_163506_sushi_board,108_208,board,sushi,208.0,108.0,1,1,0,True,3.18,expensive and a ring gold gold bar diamond sushi
+108_208_46_1_20250114_163523_jungle_board,108_208,board,jungle,208.0,108.0,1,3,2,True,14.34,"Yeah, jungle."
+108_208_47_1_20250114_163536_yellow_board,108_208,board,yellow,208.0,108.0,1,1,0,True,8.6,"Yellow, white."
+108_208_48_1_20250114_163634_flannel_board,108_208,board,flannel,208.0,108.0,8,16,15,True,52.91,"Flannel, flannel"
+108_208_49_1_20250114_163641_doughnut_board,108_208,board,doughnut,208.0,108.0,1,2,1,False,,
+108_208_50_1_20250114_163655_picture_board,108_208,board,picture,208.0,108.0,0,0,0,True,1.3,um might hang it on the wall a poster? Nope a frame? No but that is one of the taboo. Picture.
+108_208_51_1_20250114_163806_spinach_board,108_208,board,spinach,208.0,108.0,5,9,8,False,,
+108_208_52_1_20250114_163842_blanket_board,108_208,board,blanket,208.0,,1,1,0,False,,
+108_208_53_1_20250114_163852_pillow_board,108_208,board,pillow,208.0,108.0,1,2,1,False,,
+108_208_54_1_20250114_163903_soda_board,108_208,board,soda,208.0,108.0,1,1,0,True,7.42,Soda?
+116_216_12_1_20250116_102514_butter_board,116_216,board,butter,116.0,,1,1,0,False,,
+116_216_13_1_20250116_102527_traffic_board,116_216,board,traffic,116.0,216.0,1,1,0,True,8.32,Traffic light.
+116_216_14_1_20250116_102556_picture_board,116_216,board,picture,116.0,216.0,3,7,6,True,26.32,Picture.
+116_216_15_1_20250116_102602_siren_board,116_216,board,siren,116.0,216.0,1,2,1,False,,
+116_216_16_1_20250116_102611_pasta_board,116_216,board,pasta,116.0,216.0,1,1,0,True,5.94,Pasta.
+116_216_17_1_20250116_102622_yellow_board,116_216,board,yellow,116.0,216.0,1,1,0,True,8.03,Yellow.
+116_216_18_1_20250116_102638_hunger_board,116_216,board,hunger,116.0,216.0,1,1,0,True,12.96,hunger
+116_216_19_1_20250116_102654_leather_board,116_216,board,leather,116.0,216.0,1,1,0,True,12.16,Leather?
+116_216_20_1_20250116_102710_pillow_board,116_216,board,pillow,116.0,216.0,2,3,2,True,12.46,The pillow
+116_216_21_1_20250116_102716_muscle_board,116_216,board,muscle,116.0,216.0,1,1,0,True,1.74,muscle
+116_216_23_1_20250116_102753_doughnut_ground,116_216,ground,doughnut,216.0,,1,1,0,False,,
+116_216_24_1_20250116_102808_bacon_ground,116_216,ground,bacon,216.0,116.0,2,3,2,False,,
+116_216_25_1_20250116_102832_puppy_ground,116_216,ground,puppy,216.0,116.0,3,5,4,True,19.86,"Uh, puppy?"
+116_216_26_1_20250116_102855_sugar_ground,116_216,ground,sugar,216.0,116.0,1,1,0,True,20.4,Sugar? Yeah.
+116_216_27_1_20250116_102911_zipper_ground,116_216,ground,zipper,216.0,,1,1,0,False,,
+116_216_28_1_20250116_102950_cologne_ground,116_216,ground,cologne,216.0,116.0,2,5,4,True,35.65,Cologne?
+116_216_29_1_20250116_103005_hamster_ground,116_216,ground,hamster,216.0,,1,1,0,False,,
+116_216_30_1_20250116_103021_tiger_ground,116_216,ground,tiger,216.0,,1,1,0,True,11.66,"Yeah, a tiger."
+116_216_31_1_20250116_103035_chlorine_ground,116_216,ground,chlorine,216.0,,1,1,0,False,,
+116_216_32_1_20250116_103144_walnut_ground,116_216,ground,walnut,216.0,116.0,5,9,8,False,,
+116_216_34_1_20250116_103225_flower_ground,116_216,ground,flower,116.0,216.0,1,1,0,True,6.58,Flowers.
+116_216_35_1_20250116_103333_flannel_ground,116_216,ground,flannel,116.0,216.0,2,4,3,False,,
+116_216_36_1_20250116_103426_jungle_ground,116_216,ground,jungle,116.0,216.0,5,9,8,True,24.98,Jungle.
+116_216_37_1_20250116_103447_beauty_ground,116_216,ground,beauty,116.0,216.0,1,1,0,True,10.89,Beauty and the Beast.
+116_216_38_1_20250116_103502_coffee_ground,116_216,ground,coffee,116.0,216.0,2,3,2,True,11.56,Her coffee.
+116_216_39_1_20250116_103539_birthday_ground,116_216,ground,birthday,116.0,216.0,4,7,6,True,34.42,birthday.
+116_216_40_1_20250116_103547_music_ground,116_216,ground,music,,216.0,0,0,0,True,3.28,Music.
+116_216_41_1_20250116_103635_soda_ground,116_216,ground,soda,116.0,216.0,5,9,8,False,,
+116_216_42_1_20250116_103705_exam_ground,116_216,ground,exam,116.0,216.0,3,6,5,True,26.94,40 percent exams.
+116_216_43_1_20250116_103720_bitter_ground,116_216,ground,bitter,,216.0,0,1,0,True,11.49,Bitter.
+116_216_45_1_20250116_103813_gravy_board,116_216,board,gravy,216.0,,1,1,0,False,,
+116_216_46_1_20250116_103828_cherry_board,116_216,board,cherry,216.0,,1,1,0,False,,
+116_216_47_1_20250116_103841_sushi_board,116_216,board,sushi,216.0,,1,1,0,False,,
+116_216_48_1_20250116_103854_river_board,116_216,board,river,216.0,,1,1,0,False,,
+116_216_49_1_20250116_103913_blanket_board,116_216,board,blanket,216.0,116.0,2,3,2,False,,
+116_216_50_1_20250116_103951_spinach_board,116_216,board,spinach,216.0,116.0,2,3,2,False,,
+116_216_51_1_20250116_104027_movie_board,116_216,board,movie,216.0,116.0,2,3,2,False,,
+116_216_52_1_20250116_104050_christmas_board,116_216,board,christmas,216.0,,1,1,0,False,,
+116_216_53_1_20250116_104129_trumpet_board,116_216,board,trumpet,216.0,,1,1,0,False,,
+116_216_54_1_20250116_104150_balloon_board,116_216,board,balloon,216.0,,1,1,0,False,,
