@@ -1,0 +1,186 @@
+trial_id,pair_id,condition,target_word,clue_giver_id,attempt_idx,n_attempts,start,end,duration,n_segments,text
+103_203_12_1_20250113_152455_doughnut_board,103_203,board,doughnut,103,1,1,1.01,13.79,12.78,4,"Okay, it's like something sweet like a Like think bread, but sweet Like that and then has another one in the middle"
+103_203_13_1_20250113_152513_spinach_board,103_203,board,spinach,103,1,1,2.8,13.8,11.0,1,"Uh, oh no. It's like, I think Lattice, but not Lattice, similar to Lattice. No, no similar to that I think."
+103_203_14_1_20250113_152536_balloon_board,103_203,board,balloon,103,1,2,2.61,18.61,16.0,6,"It's latex. You, um... No, you sort of like... Uh... You have them at parties a lot. You usually give them to someone like..."
+103_203_14_1_20250113_152536_balloon_board,103_203,board,balloon,103,2,2,20.61,22.61,2.0,1,Yeah.
+103_203_15_1_20250113_152557_bacon_board,103_203,board,bacon,103,1,3,1.2,6.08,4.88,1,"Okay, it's a type of meat comes from an animal that's pink"
+103_203_15_1_20250113_152557_bacon_board,103_203,board,bacon,103,2,3,9.72,14.98,5.26,2,No Similother
+103_203_15_1_20250113_152557_bacon_board,103_203,board,bacon,103,3,3,14.98,17.48,2.5,1,"No, no, no, it's like streaky"
+103_203_16_1_20250113_152613_chlorine_board,103_203,board,chlorine,103,1,1,3.98,12.62,8.64,1,"Okay, on the periodic table it would look like CL."
+103_203_17_1_20250113_152643_leather_board,103_203,board,leather,103,1,1,1.78,25.1,23.32,5,"Okay, this is a type Okay, you can make clouds out of this and it's from an animal think From an animal that's white with like black patches on it usually You it gives milk"
+103_203_18_1_20250113_152657_pillow_board,103_203,board,pillow,103,1,1,2.48,6.86,4.38,1,You do this on it.
+103_203_19_1_20250113_152712_traffic_board,103_203,board,traffic,103,1,1,2.19,11.43,9.24,2,This usually happens when you're in the car and it can be quite annoying But it's when there's lots of cars on the road
+103_203_20_1_20250113_152735_bitter_board,103_203,board,bitter,103,1,1,2.77,22.3,19.53,3,Think like lemon or like lime you know that sort of weird after feel you get it's that It's quite difficult to explain Yeah
+103_203_21_1_20250113_152824_tiger_board,103_203,board,tiger,103,1,2,0.0,36.12,36.12,3,"Um, can I say that isn't one of the words there. Um, so, sort of like farry in, I really don't know how to say that without any other words. Um, a dangerous, no, it's, lives in, yeah, lives in the wild."
+103_203_21_1_20250113_152824_tiger_board,103_203,board,tiger,103,2,2,37.0,43.0,6.0,1,"It's, it's not king of the jungle, but like similar in, in that area."
+103_203_23_1_20250113_152946_trumpet_ground,103_203,ground,trumpet,203,1,2,1.74,26.17,24.43,2,"Oh, um, right. Uh, metal cone-like thing that you play with your mouth that isn't the saxophone, but is in a similar genre."
+103_203_23_1_20250113_152946_trumpet_ground,103_203,ground,trumpet,203,2,2,26.17,32.08,5.91,1,Next one. There we go.
+103_203_24_1_20250113_152957_pasta_ground,103_203,ground,pasta,203,1,1,1.42,10.42,9.0,3,"Okay, Italian's favourite food. Yeah, pasta. Yeah."
+103_203_25_1_20250113_153028_hamster_ground,103_203,ground,hamster,203,1,2,0.88,16.3,15.42,2,"Um, okay, they're small people people own them They had a movie where they were spies they are an animal"
+103_203_25_1_20250113_153028_hamster_ground,103_203,ground,hamster,203,2,2,17.88,26.08,8.2,1,People look after them they roll around in balls plastic plastic balls
+103_203_26_1_20250113_153140_siren_ground,103_203,ground,siren,203,1,4,2.83,24.83,22.0,1,It's a thing that produces another thing in anticipation of natural disasters to alert people of danger.
+103_203_26_1_20250113_153140_siren_ground,103_203,ground,siren,203,2,4,33.46,51.64,18.18,2,Close. What's the machine that produces an alert? It's a... yes. Yes.
+103_203_26_1_20250113_153140_siren_ground,103_203,ground,siren,203,3,4,51.64,60.64,9.0,1,They're on emergency service vehicles. They're also on natural disaster.
+103_203_26_1_20250113_153140_siren_ground,103_203,ground,siren,203,4,4,63.64,64.64,1.0,1,Yeah.
+103_203_27_1_20250113_153217_jungle_ground,103_203,ground,jungle,203,1,1,1.26,26.02,24.76,6,"Okay, um The big thing in Brazil the big natural collection of Plants and Other word there we go"
+103_203_28_1_20250113_153235_birthday_ground,103_203,ground,birthday,203,1,1,1.07,17.06,15.99,2,You have it once every year and it marks the start of your life. There we go.
+103_203_29_1_20250113_153255_cherry_ground,103_203,ground,cherry,203,1,1,0.85,16.85,16.0,2,There's two of them. They come on little stalks. They are a thing that you eat. And yeah.
+103_203_30_1_20250113_153310_exam_ground,103_203,ground,exam,203,1,1,0.88,12.88,12.0,1,You have to sit them. You don't really like them. They come at the end of the year in university and yeah.
+103_203_31_1_20250113_153333_flower_ground,103_203,ground,flower,203,1,1,1.14,21.46,20.32,3,"They are bright, they've got lots of little things, they grow in meadows, people cut them. General category. There we go."
+103_203_32_1_20250113_153341_coffee_ground,103_203,ground,coffee,203,1,1,0.85,5.85,5.0,2,"Um, Starbucks. Yep."
+103_203_34_1_20250113_153427_picture_ground,103_203,ground,picture,103,1,3,1.49,8.17,6.68,1,"Okay, you can take it on your phone, but I guess you could also print it out and look at it"
+103_203_34_1_20250113_153427_picture_ground,103_203,ground,picture,103,2,3,9.05,12.97,3.92,1,Close another word for that image sort of another word for that
+103_203_34_1_20250113_153427_picture_ground,103_203,ground,picture,103,3,3,15.49,18.11,2.62,1,No begins with a P
+103_203_35_1_20250113_153443_yellow_ground,103_203,ground,yellow,103,1,1,2.45,12.45,10.0,1,"Okay, uh, this thing add green equals blue."
+103_203_37_1_20250113_153517_movie_ground,103_203,ground,movie,103,1,1,2.54,19.05,16.51,1,sort of like you can you watch it on your TV it's sort of usually like an hour
+103_203_38_1_20250113_153528_puppy_ground,103_203,ground,puppy,103,1,1,1.62,7.78,6.16,1,"Okay, it's really cute. It's an animal and it's usually like a domestic animal as well"
+103_203_39_1_20250113_153540_muscle_ground,103_203,ground,muscle,103,1,1,0.98,6.7,5.72,2,This is a poll of your... ...duck there.
+103_203_40_1_20250113_153555_beauty_ground,103_203,ground,beauty,103,1,1,3.09,10.49,7.4,1,"Okay, think of a Disney movie something and the base"
+103_203_41_1_20250113_153604_sugar_ground,103_203,ground,sugar,103,1,2,1.36,4.64,3.28,1,You usually put this in coffee.
+103_203_41_1_20250113_153604_sugar_ground,103_203,ground,sugar,103,2,2,5.64,6.64,1.0,1,It's a condiment.
+103_203_42_1_20250113_153614_sushi_ground,103_203,ground,sushi,103,1,1,1.23,6.23,5.0,1,"Um, this is like a Japanese food."
+103_203_43_1_20250113_153626_gravy_ground,103_203,ground,gravy,103,1,1,1.55,7.67,6.12,1,"Okay, British people always put this on like a food you usually have on I would say a Sunday"
+103_203_45_1_20250113_153745_walnut_board,103_203,board,walnut,203,1,3,3.54,19.54,16.0,3,"Okay, one word, two parts, no hyphen. What do you call the thing behind you? Okay, and what do you call..."
+103_203_45_1_20250113_153745_walnut_board,103_203,board,walnut,203,2,3,19.54,39.23,19.69,6,"No, you got it already. Second part of the word. What do you call P? Second part of P, the type of food you eat. They're usually salted, you get them in bars. Oh, they're nice."
+103_203_45_1_20250113_153745_walnut_board,103_203,board,walnut,203,3,3,39.23,40.23,1.0,1,There we go.
+103_203_46_1_20250113_153759_blanket_board,103_203,board,blanket,203,1,1,0.02,11.52,11.5,2,"Um, big rectangular fluffy thing that you wrap yourself with. There we go."
+103_203_47_1_20250113_153811_soda_board,103_203,board,soda,203,1,1,1.26,9.26,8.0,3,Okay. Fizzy? Yep.
+103_203_48_1_20250113_153828_hunger_board,103_203,board,hunger,203,1,1,0.91,10.6,9.69,1,painful feeling here. What does that represent? You need to consume things. There we go.
+103_203_49_1_20250113_153839_christmas_board,103_203,board,christmas,203,1,1,1.94,9.94,8.0,1,"Um, celebrated once per year. Big tree. There we go."
+103_203_50_1_20250113_153852_butter_board,103_203,board,butter,203,1,1,0.85,10.85,10.0,3,It's yellow. You put it on. There we go.
+103_203_51_1_20250113_153926_cologne_board,103_203,board,cologne,203,1,2,1.71,26.5,24.79,3,"It's a French word for a thing that people, that men wear. It's sprayed on. Yes, it produces a smell."
+103_203_51_1_20250113_153926_cologne_board,103_203,board,cologne,203,2,2,26.5,32.26,5.76,2,"Clone. Clone, yeah."
+103_203_52_1_20250113_154037_zipper_board,103_203,board,zipper,203,1,5,0.78,12.78,12.0,2,You have it on your trousers and you have to pull it up at the front of your trousers. Second thing.
+103_203_52_1_20250113_154037_zipper_board,103_203,board,zipper,203,2,5,12.78,21.61,8.83,1,"Thing at the front of your trousers, that's the first part of the word."
+103_203_52_1_20250113_154037_zipper_board,103_203,board,zipper,203,3,5,21.61,39.19,17.58,2,And then what do you call that specifically on the trousers? Other word for that containing those first three letters.
+103_203_52_1_20250113_154037_zipper_board,103_203,board,zipper,203,4,5,42.19,46.73,4.54,1,"First three letters, you've already said."
+103_203_52_1_20250113_154037_zipper_board,103_203,board,zipper,203,5,5,46.73,55.36,8.63,2,Second three letters. A thing that does that on the front of your trousers.
+103_203_53_1_20250113_154055_river_board,103_203,board,river,203,1,1,1.39,5.39,4.0,1,"Um, big thing."
+103_203_54_1_20250113_154107_music_board,103_203,board,music,203,1,1,1.23,9.23,8.0,2,You listen to it. A thing that comes out of headphones.
+108_208_12_1_20250114_162456_flower_ground,108_208,ground,flower,108,1,2,1.62,4.02,2.4,1,"Okay, so it grows in soil"
+108_208_12_1_20250114_162456_flower_ground,108_208,ground,flower,108,2,2,5.78,12.6,6.82,2,It's small like photosynthesis It's a lily that what is a lily a type of yeah
+108_208_13_1_20250114_162512_traffic_ground,108_208,ground,traffic,108,1,1,1.17,12.61,11.44,1,"So when you're driving the machine that's like red, green, yellow, without the light."
+108_208_14_1_20250114_162535_zipper_ground,108_208,ground,zipper,108,1,1,0.91,20.33,19.42,4,"So something that you... So it's on a jacket. It's like the metal part, the middle part of a jacket. Yeah, is that how? Okay, maybe not. The like on your jeans is basically what you said, but like the bit, yeah."
+108_208_15_1_20250114_162542_gravy_ground,108_208,ground,gravy,108,1,1,1.01,6.01,5.0,1,"So you pour this on like a roast, it's brown. Yeah."
+108_208_16_1_20250114_162559_siren_ground,108_208,ground,siren,108,1,1,1.17,14.17,13.0,2,"It is the thing that goes like wee-oo, wee-oo, wee-oo. What is the actual thing that goes like wee-oo, wee-oo?"
+108_208_17_1_20250114_162610_cherry_ground,108_208,ground,cherry,108,1,1,1.07,9.07,8.0,2,"So there's like a phrase that's like, like pretty please with a on top. Yeah. Yeah."
+108_208_18_1_20250114_162618_coffee_ground,108_208,ground,coffee,108,1,1,1.07,5.07,4.0,1,So you can have like an iced version of this drink.
+108_208_19_1_20250114_162700_cologne_ground,108_208,ground,cologne,108,1,3,1.71,8.47,6.76,1,So it's like the men's version of similar.
+108_208_19_1_20250114_162700_cologne_ground,108_208,ground,cologne,108,2,3,10.65,39.29,28.64,6,"It's like the fancy version of saying offshave. Like it's not... Ooh, I don't know. It's like... It rhymes with... It rhymes with like Malone."
+108_208_19_1_20250114_162700_cologne_ground,108_208,ground,cologne,108,3,3,39.29,40.13,0.84,1,Yeah.
+108_208_20_1_20250114_162723_bitter_ground,108_208,ground,bitter,108,1,2,1.1,14.1,13.0,4,"So people might describe lemon as being... Yeah, something that's like... Yeah, what is that? What is that like? Yeah, another word for that?"
+108_208_20_1_20250114_162723_bitter_ground,108_208,ground,bitter,108,2,2,16.1,19.1,3.0,1,It rhymes with litter.
+108_208_21_1_20250114_162731_sugar_ground,108_208,ground,sugar,108,1,1,0.85,5.29,4.44,1,"Okay, so you add this to tea so it's like after yeah"
+108_208_23_1_20250114_162817_tiger_ground,108_208,ground,tiger,208,1,2,4.43,11.43,7.0,2,"It's the main character in... You know Mowgli, that film."
+108_208_23_1_20250114_162817_tiger_ground,108_208,ground,tiger,208,2,2,13.43,15.43,2.0,1,"Yeah, main character in that."
+108_208_24_1_20250114_162831_exam_ground,108_208,ground,exam,208,1,2,0.75,4.75,4.0,1,"You do them at school, university."
+108_208_24_1_20250114_162831_exam_ground,108_208,ground,exam,208,2,2,6.75,8.75,2.0,1,Usually at the end of the year.
+108_208_26_1_20250114_162904_hamster_ground,108_208,ground,hamster,208,1,1,1.3,5.8,4.5,1,on a similar trail of thought that these ones are in a cage
+108_208_27_1_20250114_162936_bacon_ground,108_208,ground,bacon,208,1,4,3.82,5.82,2.0,1,I like it fried in a sani.
+108_208_27_1_20250114_162936_bacon_ground,108_208,ground,bacon,208,2,4,7.82,11.82,4.0,1,"Like it fried, like in a sani, in a baguette."
+108_208_27_1_20250114_162936_bacon_ground,108_208,ground,bacon,208,3,4,17.82,22.82,5.0,1,"Oh gosh, a lot of people have it on a full English."
+108_208_27_1_20250114_162936_bacon_ground,108_208,ground,bacon,208,4,4,23.82,27.82,4.0,1,"No, it's meat."
+108_208_28_1_20250114_162956_river_ground,108_208,ground,river,208,1,1,2.61,11.31,8.7,1,"Okay, you learn about them in geography."
+108_208_29_1_20250114_163011_walnut_ground,108_208,ground,walnut,208,1,1,1.62,5.57,3.95,1,"Um, it's a type of knot."
+108_208_30_1_20250114_163024_butter_ground,108_208,ground,butter,208,1,2,4.69,6.69,2.0,1,You might put it on toast.
+108_208_30_1_20250114_163024_butter_ground,108_208,ground,butter,208,2,2,7.69,8.69,1.0,1,"No, before that."
+108_208_31_1_20250114_163033_leather_ground,108_208,ground,leather,208,1,1,2.03,6.03,4.0,1,People like jackets made out of this.
+108_208_32_1_20250114_163057_chlorine_ground,108_208,ground,chlorine,208,1,1,3.7,10.7,7.0,1,"This is something you learn about in science. It's um, it helps with hygiene."
+108_208_34_1_20250114_163148_movie_board,108_208,board,movie,108,1,1,0.85,9.97,9.12,1,"Okay, so you know like Cineworld or yeah, what do you what do you watch there? Yeah"
+108_208_35_1_20250114_163156_pasta_board,108_208,board,pasta,108,1,1,0.91,5.91,5.0,1,"So like lasagna, spaghetti, what are they? Yeah."
+108_208_36_1_20250114_163248_balloon_board,108_208,board,balloon,108,1,1,0.82,51.6,50.78,10,"So this is like a hot... So it like goes in the sky and it's... No, it's like people like in Turkey, there's loads of like hot something, something. Like in a birthday, like there's going to be loads of, no, loads of like as decoration, you put it around. And they can... they can like float. They float and they're like... It's got like a little string. Yeah, but what's the last word? Just the last word of that. Yeah."
+108_208_38_1_20250114_163310_birthday_board,108_208,board,birthday,108,1,1,0.66,9.66,9.0,2,So I mentioned this word before when I was talking about the balloons. When it's like your 15th or like your 80th. Yeah.
+108_208_39_1_20250114_163319_beauty_board,108_208,board,beauty,108,1,1,0.85,7.09,6.24,2,"People say like, oh, I need my something sleep. Like, yeah."
+108_208_40_1_20250114_163328_christmas_board,108_208,board,christmas,108,1,1,0.72,6.72,6.0,2,"So this is like during December, the main event in December. Yeah."
+108_208_41_1_20250114_163344_trumpet_board,108_208,board,trumpet,108,1,1,0.0,8.48,8.48,2,"Sorry. So like this is something that you, like you blow, yeah."
+108_208_42_1_20250114_163352_music_board,108_208,board,music,108,1,1,1.01,5.61,4.6,1,So it's something that you listen to like in the car. Yeah
+108_208_43_1_20250114_163408_hunger_board,108_208,board,hunger,108,1,3,1.17,5.17,4.0,1,"Instead of feeling thirsty, what's something similar about it?"
+108_208_43_1_20250114_163408_hunger_board,108_208,board,hunger,108,2,3,5.17,7.17,2.0,1,But what's the word?
+108_208_43_1_20250114_163408_hunger_board,108_208,board,hunger,108,3,3,9.17,15.17,6.0,2,"No, it's what you said, but it's just the beginning bit of it, not the why bit. Yeah, yeah, hunger."
+108_208_45_1_20250114_163506_sushi_board,108_208,board,sushi,208,1,1,2.19,7.79,5.6,1,"Oh, it's expensive and you it's something bar"
+108_208_46_1_20250114_163523_jungle_board,108_208,board,jungle,208,1,1,8.24,14.2,5.96,1,"On the right track. Oh, you know, um, we were talking before about Mowgli"
+108_208_47_1_20250114_163536_yellow_board,108_208,board,yellow,208,1,1,2.67,9.46,6.79,1,It's a very bright shade.
+108_208_48_1_20250114_163634_flannel_board,108_208,board,flannel,208,1,8,1.65,3.65,2.0,1,Something you'd use to wash yourself
+108_208_48_1_20250114_163634_flannel_board,108_208,board,flannel,208,2,8,5.27,7.65,2.38,1,What would you use what would you put the soap on?
+108_208_48_1_20250114_163634_flannel_board,108_208,board,flannel,208,3,8,19.86,21.86,2.0,1,No
+108_208_48_1_20250114_163634_flannel_board,108_208,board,flannel,208,4,8,25.43,27.43,2.0,1,You could you have a face
+108_208_48_1_20250114_163634_flannel_board,108_208,board,flannel,208,5,8,30.35,32.95,2.6,1,"No, if you're washing your face you can have a face"
+108_208_48_1_20250114_163634_flannel_board,108_208,board,flannel,208,6,8,34.55,36.55,2.0,1,And a separate one for the shower
+108_208_48_1_20250114_163634_flannel_board,108_208,board,flannel,208,7,8,37.83,40.15,2.32,1,"No, I think small towel small"
+108_208_48_1_20250114_163634_flannel_board,108_208,board,flannel,208,8,8,42.31,44.31,2.0,1,"Yeah, but what's the name"
+108_208_49_1_20250114_163641_doughnut_board,108_208,board,doughnut,208,1,1,1.68,3.68,2.0,1,"Oh, homosimpsum loves to eat them."
+108_208_51_1_20250114_163806_spinach_board,108_208,board,spinach,208,1,5,3.02,22.59,19.57,5,Mmm... It's obnoxiously healthy. Like you probably wouldn't choose to eat it unless you were trying to be obnoxiously healthy. No thing... I scramble it with eggs.
+108_208_51_1_20250114_163806_spinach_board,108_208,board,spinach,208,2,5,26.83,38.18,11.35,3,Avocado's closer. It's meant to be quite a good source of iron. Like vitamins.
+108_208_51_1_20250114_163806_spinach_board,108_208,board,spinach,208,3,5,42.14,52.61,10.47,2,"No, no, no. Not an herb. No!"
+108_208_51_1_20250114_163806_spinach_board,108_208,board,spinach,208,4,5,54.61,57.61,3.0,1,"If you don't cook it right, it becomes really wet and soggy."
+108_208_51_1_20250114_163806_spinach_board,108_208,board,spinach,208,5,5,59.61,64.62,5.01,1,"Different, different colour to mushroom."
+108_208_52_1_20250114_163842_blanket_board,108_208,board,blanket,208,1,1,2.0,8.0,6.0,1,This is something very cozy similar to a fro.
+108_208_53_1_20250114_163852_pillow_board,108_208,board,pillow,208,1,1,0.78,6.63,5.85,1,What do you do that on?
+108_208_54_1_20250114_163903_soda_board,108_208,board,soda,208,1,1,1.1,7.1,6.0,1,"Oh, this is kind of an Americanism for something fizzy."
+116_216_12_1_20250116_102514_butter_board,116_216,board,butter,116,1,1,3.47,5.47,2.0,1,Thing you put on your toast in the morning.
+116_216_13_1_20250116_102527_traffic_board,116_216,board,traffic,116,1,1,4.37,9.37,5.0,1,"Light controls this. It's red, orange and yellow."
+116_216_14_1_20250116_102556_picture_board,116_216,board,picture,116,1,3,3.54,10.06,6.52,2,"Okay. You can paint one of these, but you don't have to to create it."
+116_216_14_1_20250116_102556_picture_board,116_216,board,picture,116,2,3,11.06,16.86,5.8,2,It is the object that is created. You can hang it on your wall.
+116_216_14_1_20250116_102556_picture_board,116_216,board,picture,116,3,3,16.86,21.3,4.44,1,"Once you've painted it, you can hang it on your wall, but you don't have to use"
+116_216_15_1_20250116_102602_siren_board,116_216,board,siren,116,1,1,0.75,2.75,2.0,1,"Uh, wee!"
+116_216_16_1_20250116_102611_pasta_board,116_216,board,pasta,116,1,1,0.37,7.32,6.95,1,"Spaghetti, rigatoni, congigli."
+116_216_17_1_20250116_102622_yellow_board,116_216,board,yellow,116,1,1,1.42,8.28,6.86,1,One of the traffic lights is this colour?
+116_216_18_1_20250116_102638_hunger_board,116_216,board,hunger,116,1,1,3.95,13.95,10.0,2,"Grr, grrr, nom nom nom. The emotion associated with..."
+116_216_19_1_20250116_102654_leather_board,116_216,board,leather,116,1,1,1.42,11.92,10.5,4,"Um, these... Shoes. No. But they... these can be made of it, but not these one specifically."
+116_216_20_1_20250116_102710_pillow_board,116_216,board,pillow,116,1,2,1.04,6.72,5.68,1,But on this thing it's on a bet it's on it's on
+116_216_20_1_20250116_102710_pillow_board,116_216,board,pillow,116,2,2,7.6,12.74,5.14,1,"It's with your do it's included in a duvet set, but it's not the duvet"
+116_216_21_1_20250116_102716_muscle_board,116_216,board,muscle,116,1,1,0.62,2.52,1.9,2,Uh. Choo-poo-choo.
+116_216_23_1_20250116_102753_doughnut_ground,116_216,ground,doughnut,216,1,1,0.59,10.09,9.5,2,"Uh, oh, like something sweet, you deep fry it. Oh, yeah."
+116_216_24_1_20250116_102808_bacon_ground,116_216,ground,bacon,216,1,2,0.82,7.51,6.69,1,"Oh, made of an animal that goes oink."
+116_216_24_1_20250116_102808_bacon_ground,116_216,ground,bacon,216,2,2,7.51,13.51,6.0,4,Oink? It's salty and very thin. Very thin? Yeah.
+116_216_25_1_20250116_102832_puppy_ground,116_216,ground,puppy,216,1,3,0.66,7.44,6.78,3,Oh. Like... A wolf but domesticated.
+116_216_25_1_20250116_102832_puppy_ground,116_216,ground,puppy,216,2,3,7.84,9.48,1.64,1,But little.
+116_216_25_1_20250116_102832_puppy_ground,116_216,ground,puppy,216,3,3,11.1,18.03,6.93,2,"No, like, not old. A not old wolf-like creature."
+116_216_26_1_20250116_102855_sugar_ground,116_216,ground,sugar,216,1,1,1.14,20.09,18.95,2,"Oh, it's grainy. People often use it in desserts. No, it's what makes something not savoury."
+116_216_27_1_20250116_102911_zipper_ground,116_216,ground,zipper,216,1,1,0.75,15.44,14.69,4,"Oh, uh, instead of buttons, what can you have on, like, garments? Yeah. Is it there? Yes."
+116_216_28_1_20250116_102950_cologne_ground,116_216,ground,cologne,216,1,2,3.31,25.54,22.23,3,"Oh, a spray that you use when you want to like not be stinky. Uh, but it's more of like an aesthetic thing rather than a high, um, yeah, but the one that guys are usually associated with."
+116_216_28_1_20250116_102950_cologne_ground,116_216,ground,cologne,216,2,2,25.54,35.49,9.95,1,"No, kind of sounds like alone."
+116_216_29_1_20250116_103005_hamster_ground,116_216,ground,hamster,216,1,1,1.07,13.95,12.88,2,"Ooh, a tiny rodent often runs around on a wheel. Yeah."
+116_216_30_1_20250116_103021_tiger_ground,116_216,ground,tiger,216,1,1,0.82,14.66,13.84,3,"Oh, a feline creature, but it's not a cheetah. Yeah, a tiger. Yeah."
+116_216_31_1_20250116_103035_chlorine_ground,116_216,ground,chlorine,216,1,1,1.17,12.17,11.0,2,"Oh, um, when you go swimming, this substance is usually in the water. Yeah."
+116_216_32_1_20250116_103144_walnut_ground,116_216,ground,walnut,216,1,5,0.75,15.75,15.0,3,"Oh, kind of, how do I do it? It's like, it's like from the same category as like, Peacons and Cashews. But it looks like a little brain kind of."
+116_216_32_1_20250116_103144_walnut_ground,116_216,ground,walnut,216,2,5,17.75,31.75,14.0,3,"It's a brown, brown, brown, novely thing. Kind of looks like a brain. I think you like crack it open before you have it."
+116_216_32_1_20250116_103144_walnut_ground,116_216,ground,walnut,216,3,5,35.54,51.07,15.53,2,"Sometimes you put it in your breakfast. It ends with that last syllable, but it's from that category."
+116_216_32_1_20250116_103144_walnut_ground,116_216,ground,walnut,216,4,5,52.07,59.07,7.0,2,"But like, I don't actually know what it looks like. It's like brown, novely, kind of shape."
+116_216_32_1_20250116_103144_walnut_ground,116_216,ground,walnut,216,5,5,62.07,65.07,3.0,1,"The words got, I think it has a better minute."
+116_216_34_1_20250116_103225_flower_ground,116_216,ground,flower,116,1,1,2.51,8.11,5.6,1,with the sun. Very nice. Tends to be colourful.
+116_216_35_1_20250116_103333_flannel_ground,116_216,ground,flannel,116,1,2,1.01,16.14,15.13,1,It's a type of clotheswear sort of. It tends to be on the upper half. It can be one as
+116_216_35_1_20250116_103333_flannel_ground,116_216,ground,flannel,116,2,2,16.14,27.0,10.86,1,like an over thing. It tends to have a very specific pattern. I'm not sure how to describe
+116_216_36_1_20250116_103426_jungle_ground,116_216,ground,jungle,116,1,5,2.96,4.96,2.0,1,Have you ever played Minecraft?
+116_216_36_1_20250116_103426_jungle_ground,116_216,ground,jungle,116,2,5,5.96,7.96,2.0,1,Place where you find parrots in Minecraft.
+116_216_36_1_20250116_103426_jungle_ground,116_216,ground,jungle,116,3,5,10.96,11.96,1.0,1,Not quite.
+116_216_36_1_20250116_103426_jungle_ground,116_216,ground,jungle,116,4,5,13.96,14.96,1.0,1,Big trees.
+116_216_36_1_20250116_103426_jungle_ground,116_216,ground,jungle,116,5,5,19.4,24.4,5.0,1,"There's a movie about it that has this word in the title and it says the, this book."
+116_216_37_1_20250116_103447_beauty_ground,116_216,ground,beauty,116,1,1,1.14,10.79,9.65,1,There's also a movie about this. It's a Disney movie associated with like a yellow dress
+116_216_38_1_20250116_103502_coffee_ground,116_216,ground,coffee,116,1,2,0.91,6.57,5.66,1,But like hot.
+116_216_38_1_20250116_103502_coffee_ground,116_216,ground,coffee,116,2,2,8.57,10.57,2.0,1,In a mug.
+116_216_39_1_20250116_103539_birthday_ground,116_216,ground,birthday,116,1,4,0.88,8.88,8.0,2,"Uh, woo! Growing up is associated with this thing."
+116_216_39_1_20250116_103539_birthday_ground,116_216,ground,birthday,116,2,4,13.88,14.88,1.0,1,Wisdom.
+116_216_39_1_20250116_103539_birthday_ground,116_216,ground,birthday,116,3,4,24.88,29.88,5.0,1,It's associated with when a person first entered this world.
+116_216_39_1_20250116_103539_birthday_ground,116_216,ground,birthday,116,4,4,30.88,34.88,4.0,1,And the specific related to that that occurs every single year.
+116_216_41_1_20250116_103635_soda_ground,116_216,ground,soda,116,1,5,1.07,10.57,9.5,1,You drink it and it's like jub jub jub jub jub because it's like a thing.
+116_216_41_1_20250116_103635_soda_ground,116_216,ground,soda,116,2,5,13.57,14.57,1.0,1,Coke?
+116_216_41_1_20250116_103635_soda_ground,116_216,ground,soda,116,3,5,19.57,21.57,2.0,1,It's like not...what are those?
+116_216_41_1_20250116_103635_soda_ground,116_216,ground,soda,116,4,5,37.39,43.39,6.0,1,Americans will also use this to just refer to like...actually I don't know what Americans...
+116_216_41_1_20250116_103635_soda_ground,116_216,ground,soda,116,5,5,44.39,45.39,1.0,1,Yeah.
+116_216_42_1_20250116_103705_exam_ground,116_216,ground,exam,116,1,3,0.94,13.62,12.68,1,What we have to do in term three that is related to our studies and it comes at the end of
+116_216_42_1_20250116_103705_exam_ground,116_216,ground,exam,116,2,3,13.62,20.98,7.36,1,our studies and it demonstrates at the end of our studies whether or not we move on to
+116_216_42_1_20250116_103705_exam_ground,116_216,ground,exam,116,3,3,20.98,27.5,6.52,3,the next year. We have to get 40% in these things. We have to get 40% in these things.
+116_216_45_1_20250116_103813_gravy_board,116_216,board,gravy,216,1,1,1.07,24.85,23.78,7,"Ooh. Uh, I am, you might have this with your sausages. Uh, no, like a condiment with your sausages. Uh, no, it's like runnier than that. Sometimes made of granules? Really? Yeah."
+116_216_46_1_20250116_103828_cherry_board,116_216,board,cherry,216,1,1,0.66,14.66,14.0,4,"Ooh. Often used as a topping on desserts, it's got like a big seed in the middle. Sometimes they often come in like pears, little bunches. Yeah."
+116_216_47_1_20250116_103841_sushi_board,116_216,board,sushi,216,1,1,1.07,8.79,7.72,1,Japanese dish usually wrapped in seaweed
+116_216_48_1_20250116_103854_river_board,116_216,board,river,216,1,1,0.82,12.79,11.97,1,like the ocean but narrow and it's yeah
+116_216_49_1_20250116_103913_blanket_board,116_216,board,blanket,216,1,2,1.14,15.14,14.0,2,"When I'm tired, I... okay, I've got a... Yeah, but in the place I do that, I have a pillow and a..."
+116_216_49_1_20250116_103913_blanket_board,116_216,board,blanket,216,2,2,15.14,18.14,3.0,1,Yeah.
+116_216_50_1_20250116_103951_spinach_board,116_216,board,spinach,216,1,2,1.07,21.45,20.38,1,Ah. It's like... it's bushy. It's a plant that you can consume. It's not a fruit.
+116_216_50_1_20250116_103951_spinach_board,116_216,board,spinach,216,2,2,21.45,36.38,14.93,2,Usually associated with making you strong. Yeah.
+116_216_51_1_20250116_104027_movie_board,116_216,board,movie,216,1,2,1.07,13.81,12.74,3,"Okay. There are like, you know, have you heard of Vue? Vue. What does it do there?"
+116_216_51_1_20250116_104027_movie_board,116_216,board,movie,216,2,2,20.76,34.8,14.04,5,It like Instead of watching Stuff on a TV screen at home You go to this place and watch a Yeah
+116_216_52_1_20250116_104050_christmas_board,116_216,board,christmas,216,1,1,0.72,21.91,21.19,5,"Ah, okay. The time of year associated with St Nicholas. No, St Nicholas is another name for someone else. Yeah, and what occasion is associated with this? Yeah, there we go."
+116_216_53_1_20250116_104129_trumpet_board,116_216,board,trumpet,216,1,1,1.17,38.62,37.45,4,"Not a tube or a trombone, it's like smaller. Same category though. It's like golden. No, it's like when you think of what category is like tube or trombone from? No, they're not. It's like, yeah, yeah. And it's the most, it's the one most commonly associated with that category. Yeah."
+116_216_54_1_20250116_104150_balloon_board,116_216,board,balloon,216,1,1,0.88,19.46,18.58,3,"You can fill it with oxygen. Usually use it for fun though. It's like made of rubber. You tie a string on it and yeah, there we go."

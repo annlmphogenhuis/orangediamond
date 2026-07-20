@@ -3,6 +3,7 @@
 Fills the DIMS `assets/` folder and writes `config.json` for the BalanceCorpus
 dashboard, from the raw corpus data.
 
+
 Trials are discovered directly from the corpus `merged/` videos (no manifest
 needed). The corpus root is located automatically by walking up from this file
 until a directory containing `merged/` and `metadata.csv` is found, so the
@@ -54,14 +55,16 @@ RQA_OUT = ASSETS / "rqa"
 TARGET_HZ = 50.0  # resample rate for the dense acoustic + gyro channels
 
 # Which multidimensional-wrist-RQA files feed the dashboard's RQA tab. We only
-# take the clue-giver's camera-01 HANDS view, and expose the position- and
-# velocity-based wrist embeddings as two separate RQA data types / plots.
+# take the clue-giver's camera-01 HANDS view. Each combined mdRQA JSON (produced
+# by opt/step_mdRQA.py) holds both a coordinate and a velocity block; each becomes
+# a separate RQA data type / plot in the dashboard.
+MDRQA_DIR = MOTION_DIR / "Output_mdRQA"
 MDRQA_ROLE = "clueGiver"
 MDRQA_CAM = "cam01"
 MDRQA_LANDMARK = "hands"
-MDRQA_SOURCES = {
-    "wrists_hands": MOTION_DIR / "Output_mdRQA_wrists",
-    "wrists_velocity_hands": MOTION_DIR / "Output_mdRQA_wrists_velocity",
+MDRQA_BLOCKS = {
+    "coordinates": "wrists_hands",
+    "velocity": "wrists_velocity_hands",
 }
 
 
@@ -159,18 +162,24 @@ def _mdrqa_to_dashboard(md):
 def load_mdrqa(trial_id):
     """Collect the clue-giver/cam01 hands wrist-mdRQA results for `trial_id`.
 
-    Returns {data_type: plotData} for the position and velocity variants that
-    exist, or an empty dict if none are present.
+    Reads the single combined JSON (opt/step_mdRQA.py output) and splits its
+    coordinate and velocity blocks into separate dashboard data types. Returns
+    {data_type: plotData}, or an empty dict if the file is missing.
     """
+    p = MDRQA_DIR / f"{trial_id}_{MDRQA_ROLE}_{MDRQA_CAM}_{MDRQA_LANDMARK}_mdRQA.json"
+    if not p.exists():
+        return {}
+    try:
+        blocks = json.loads(p.read_text())["mdRQA_data"]
+    except (ValueError, KeyError) as e:
+        print(f"  {trial_id}: malformed mdRQA file {p.name}: {e}")
+        return {}
+
     out = {}
-    for data_type, src_dir in MDRQA_SOURCES.items():
-        p = src_dir / f"{trial_id}_{MDRQA_ROLE}_{MDRQA_CAM}_{MDRQA_LANDMARK}_mdRQA.json"
-        if not p.exists():
-            continue
-        try:
-            md = json.loads(p.read_text())["mdRQA_data"]
-        except (ValueError, KeyError) as e:
-            print(f"  {trial_id}: malformed mdRQA file {p.name}: {e}")
+    for block_key, data_type in MDRQA_BLOCKS.items():
+        md = blocks.get(block_key)
+        if not md:
+            print(f"  {trial_id}: mdRQA file missing '{block_key}' block")
             continue
         entry = _mdrqa_to_dashboard(md)
         entry["data_type"] = data_type
@@ -216,13 +225,13 @@ def discover_trials():
 def main():
     for d in (TS_OUT, VID_OUT, RQA_OUT):
         d.mkdir(parents=True, exist_ok=True)
-    # Clear previously generated assets so removed channels / ELAN don't linger.
+    # Clear previously generated assets so removed channels don't linger.
+    # NOTE: assets/elan is intentionally NOT cleared — the .eaf files (clue-giver
+    # attempts + guess) are produced by ../turntaking_attempts.ipynb, not here.
     for old in TS_OUT.glob("*.csv"):
         old.unlink()
     for old in RQA_OUT.glob("*_rqa_data.json"):
         old.unlink()
-    if ELAN_OUT.exists():
-        shutil.rmtree(ELAN_OUT)
 
     print(f"Corpus root: {CORPUS}")
     trials_flat = discover_trials()
@@ -271,7 +280,8 @@ def main():
         "videoIDs": video_ids,
         "dataTypes": data_types,
         "include_RQA": sorted(rqa_types),
-        "include_elan": False,
+        # .eaf files (clue-giver attempts + guess) come from ../turntaking_attempts.ipynb
+        "include_elan": True,
         "defaultWindowSize": 5,
         "title": "BalanceCorpus — DIMS",
         "subtitle": "Dyadic taboo-game interactions",

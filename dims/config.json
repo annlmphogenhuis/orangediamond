@@ -22,7 +22,6 @@
     "103_203_32_1_20250113_153341_coffee_ground",
     "103_203_34_1_20250113_153427_picture_ground",
     "103_203_35_1_20250113_153443_yellow_ground",
-    "103_203_36_1_20250113_153454_flannel_ground",
     "103_203_37_1_20250113_153517_movie_ground",
     "103_203_38_1_20250113_153528_puppy_ground",
     "103_203_39_1_20250113_153540_muscle_ground",
@@ -52,7 +51,6 @@
     "108_208_21_1_20250114_162731_sugar_ground",
     "108_208_23_1_20250114_162817_tiger_ground",
     "108_208_24_1_20250114_162831_exam_ground",
-    "108_208_25_1_20250114_162844_puppy_ground",
     "108_208_26_1_20250114_162904_hamster_ground",
     "108_208_27_1_20250114_162936_bacon_ground",
     "108_208_28_1_20250114_162956_river_ground",
@@ -63,7 +61,6 @@
     "108_208_34_1_20250114_163148_movie_board",
     "108_208_35_1_20250114_163156_pasta_board",
     "108_208_36_1_20250114_163248_balloon_board",
-    "108_208_37_1_20250114_163259_muscle_board",
     "108_208_38_1_20250114_163310_birthday_board",
     "108_208_39_1_20250114_163319_beauty_board",
     "108_208_40_1_20250114_163328_christmas_board",
@@ -75,259 +72,505 @@
     "108_208_47_1_20250114_163536_yellow_board",
     "108_208_48_1_20250114_163634_flannel_board",
     "108_208_49_1_20250114_163641_doughnut_board",
-    "108_208_50_1_20250114_163655_picture_board",
     "108_208_51_1_20250114_163806_spinach_board",
     "108_208_52_1_20250114_163842_blanket_board",
     "108_208_53_1_20250114_163852_pillow_board",
-    "108_208_54_1_20250114_163903_soda_board"
+    "108_208_54_1_20250114_163903_soda_board",
+    "116_216_12_1_20250116_102514_butter_board",
+    "116_216_13_1_20250116_102527_traffic_board",
+    "116_216_14_1_20250116_102556_picture_board",
+    "116_216_15_1_20250116_102602_siren_board",
+    "116_216_16_1_20250116_102611_pasta_board",
+    "116_216_17_1_20250116_102622_yellow_board",
+    "116_216_18_1_20250116_102638_hunger_board",
+    "116_216_19_1_20250116_102654_leather_board",
+    "116_216_20_1_20250116_102710_pillow_board",
+    "116_216_21_1_20250116_102716_muscle_board",
+    "116_216_23_1_20250116_102753_doughnut_ground",
+    "116_216_24_1_20250116_102808_bacon_ground",
+    "116_216_25_1_20250116_102832_puppy_ground",
+    "116_216_26_1_20250116_102855_sugar_ground",
+    "116_216_27_1_20250116_102911_zipper_ground",
+    "116_216_28_1_20250116_102950_cologne_ground",
+    "116_216_29_1_20250116_103005_hamster_ground",
+    "116_216_30_1_20250116_103021_tiger_ground",
+    "116_216_31_1_20250116_103035_chlorine_ground",
+    "116_216_32_1_20250116_103144_walnut_ground",
+    "116_216_34_1_20250116_103225_flower_ground",
+    "116_216_35_1_20250116_103333_flannel_ground",
+    "116_216_36_1_20250116_103426_jungle_ground",
+    "116_216_37_1_20250116_103447_beauty_ground",
+    "116_216_38_1_20250116_103502_coffee_ground",
+    "116_216_39_1_20250116_103539_birthday_ground",
+    "116_216_41_1_20250116_103635_soda_ground",
+    "116_216_42_1_20250116_103705_exam_ground",
+    "116_216_45_1_20250116_103813_gravy_board",
+    "116_216_46_1_20250116_103828_cherry_board",
+    "116_216_47_1_20250116_103841_sushi_board",
+    "116_216_48_1_20250116_103854_river_board",
+    "116_216_49_1_20250116_103913_blanket_board",
+    "116_216_50_1_20250116_103951_spinach_board",
+    "116_216_51_1_20250116_104027_movie_board",
+    "116_216_52_1_20250116_104050_christmas_board",
+    "116_216_53_1_20250116_104129_trumpet_board",
+    "116_216_54_1_20250116_104150_balloon_board"
   ],
   "dataTypes": {
     "103_203_12_1_20250113_152455_doughnut_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_13_1_20250113_152513_spinach_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_14_1_20250113_152536_balloon_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_15_1_20250113_152557_bacon_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_16_1_20250113_152613_chlorine_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_17_1_20250113_152643_leather_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_18_1_20250113_152657_pillow_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_19_1_20250113_152712_traffic_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_20_1_20250113_152735_bitter_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_21_1_20250113_152824_tiger_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_23_1_20250113_152946_trumpet_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_24_1_20250113_152957_pasta_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_25_1_20250113_153028_hamster_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_26_1_20250113_153140_siren_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_27_1_20250113_153217_jungle_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_28_1_20250113_153235_birthday_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_29_1_20250113_153255_cherry_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_30_1_20250113_153310_exam_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_31_1_20250113_153333_flower_ground": [
-      "sway"
+      "attempts_envelope"
     ],
     "103_203_32_1_20250113_153341_coffee_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_34_1_20250113_153427_picture_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_35_1_20250113_153443_yellow_ground": [
-      "sway"
-    ],
-    "103_203_36_1_20250113_153454_flannel_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_37_1_20250113_153517_movie_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_38_1_20250113_153528_puppy_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_39_1_20250113_153540_muscle_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_40_1_20250113_153555_beauty_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_41_1_20250113_153604_sugar_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_42_1_20250113_153614_sushi_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_43_1_20250113_153626_gravy_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_45_1_20250113_153745_walnut_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_46_1_20250113_153759_blanket_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_47_1_20250113_153811_soda_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_48_1_20250113_153828_hunger_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_49_1_20250113_153839_christmas_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_50_1_20250113_153852_butter_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_51_1_20250113_153926_cologne_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_52_1_20250113_154037_zipper_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_53_1_20250113_154055_river_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "103_203_54_1_20250113_154107_music_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_12_1_20250114_162456_flower_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_13_1_20250114_162512_traffic_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_14_1_20250114_162535_zipper_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_15_1_20250114_162542_gravy_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_16_1_20250114_162559_siren_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_17_1_20250114_162610_cherry_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_18_1_20250114_162618_coffee_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_19_1_20250114_162700_cologne_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_20_1_20250114_162723_bitter_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_21_1_20250114_162731_sugar_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_23_1_20250114_162817_tiger_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_24_1_20250114_162831_exam_ground": [
-      "sway"
-    ],
-    "108_208_25_1_20250114_162844_puppy_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_26_1_20250114_162904_hamster_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_27_1_20250114_162936_bacon_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_28_1_20250114_162956_river_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_29_1_20250114_163011_walnut_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_30_1_20250114_163024_butter_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_31_1_20250114_163033_leather_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_32_1_20250114_163057_chlorine_ground": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_34_1_20250114_163148_movie_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_35_1_20250114_163156_pasta_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_36_1_20250114_163248_balloon_board": [
-      "sway"
-    ],
-    "108_208_37_1_20250114_163259_muscle_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_38_1_20250114_163310_birthday_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_39_1_20250114_163319_beauty_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_40_1_20250114_163328_christmas_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_41_1_20250114_163344_trumpet_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_42_1_20250114_163352_music_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_43_1_20250114_163408_hunger_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_45_1_20250114_163506_sushi_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_46_1_20250114_163523_jungle_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_47_1_20250114_163536_yellow_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_48_1_20250114_163634_flannel_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_49_1_20250114_163641_doughnut_board": [
-      "sway"
-    ],
-    "108_208_50_1_20250114_163655_picture_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_51_1_20250114_163806_spinach_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_52_1_20250114_163842_blanket_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_53_1_20250114_163852_pillow_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
     ],
     "108_208_54_1_20250114_163903_soda_board": [
-      "sway"
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_12_1_20250116_102514_butter_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_13_1_20250116_102527_traffic_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_14_1_20250116_102556_picture_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_15_1_20250116_102602_siren_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_16_1_20250116_102611_pasta_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_17_1_20250116_102622_yellow_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_18_1_20250116_102638_hunger_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_19_1_20250116_102654_leather_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_20_1_20250116_102710_pillow_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_21_1_20250116_102716_muscle_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_23_1_20250116_102753_doughnut_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_24_1_20250116_102808_bacon_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_25_1_20250116_102832_puppy_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_26_1_20250116_102855_sugar_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_27_1_20250116_102911_zipper_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_28_1_20250116_102950_cologne_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_29_1_20250116_103005_hamster_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_30_1_20250116_103021_tiger_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_31_1_20250116_103035_chlorine_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_32_1_20250116_103144_walnut_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_34_1_20250116_103225_flower_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_35_1_20250116_103333_flannel_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_36_1_20250116_103426_jungle_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_37_1_20250116_103447_beauty_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_38_1_20250116_103502_coffee_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_39_1_20250116_103539_birthday_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_41_1_20250116_103635_soda_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_42_1_20250116_103705_exam_ground": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_45_1_20250116_103813_gravy_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_46_1_20250116_103828_cherry_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_47_1_20250116_103841_sushi_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_48_1_20250116_103854_river_board": [
+      "attempts_wrist_speed",
+      "attempts_envelope"
+    ],
+    "116_216_49_1_20250116_103913_blanket_board": [
+      "attempts_envelope"
+    ],
+    "116_216_50_1_20250116_103951_spinach_board": [
+      "attempts_envelope"
+    ],
+    "116_216_51_1_20250116_104027_movie_board": [
+      "attempts_envelope"
+    ],
+    "116_216_52_1_20250116_104050_christmas_board": [
+      "attempts_envelope"
+    ],
+    "116_216_53_1_20250116_104129_trumpet_board": [
+      "attempts_envelope"
+    ],
+    "116_216_54_1_20250116_104150_balloon_board": [
+      "attempts_envelope"
     ]
   },
   "include_RQA": [
-    "wrists_hands",
-    "wrists_velocity_hands"
+    "attempts_envelope",
+    "attempts_wrist_speed"
   ],
-  "include_elan": false,
+  "include_elan": true,
   "defaultWindowSize": 5,
   "title": "BalanceCorpus \u2014 DIMS",
   "subtitle": "Dyadic taboo-game interactions",
